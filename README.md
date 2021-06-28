@@ -17,3 +17,4 @@ characters,  non iso-encodings etc that later create problems when
 latexing.  It is also good practice to delete ISSN and URL entries
 from these bib-entries, as current standard revtex4 settings don't
 take those out and create a messy library. 
+3. Please DO NOT use editors that introduce additional line break symbols.  In emacs they show up as thousands of ^M symbols, one at the end of each line and make for a file that github considers as completely different, with no chance to automatically merge edits!
