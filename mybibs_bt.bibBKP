@@ -10,24 +10,6 @@
 
 
 
-@Article{Stein2014,
-  author  = {Stein, M. and Mezghani, A. and Nossek, J. A.},
-  journal = {IEEE Signal Process. Lett.},
-  title   = {{A Lower Bound for the Fisher Information Measure}},
-  year    = {2014},
-  pages   = {796},
-  volume  = {21}
-}
-
-@Article{Gart1959,
-  author  = {Gart, J. J.},
-  journal = {Ann. Math. Statist.},
-  title   = {{An extension of the Cramér–Rao inequality}},
-  year    = {1959},
-  pages   = {367},
-  volume  = {30}
-}s
-
 @Article{Jupp2010,
   author  = {Jupp, P. E.},
   journal = {J. Multivar. Anal.},
@@ -20667,116 +20649,7 @@ url={http://www.helsinki.fi/~hkurkisu/cosmology/Cosm3.pdf}
 
 
 
-@article{einstein_quantentheorie_1924,
-	title = {Quantentheorie des einatomigen idealen {Gases}},
-	journal = {Sitzungsbericht der phys.-math. Kl. der preussischen Akademie der Wissenschaften},
-	author = {Einstein, Albert},
-	year = {1924},
-	file = {einstein_1924_1925.pdf:C\:\\Users\\dany_\\Zotero\\storage\\YA5FPFJV\\einstein_1924_1925.pdf:application/pdf},
-}
 
-@article{einstein_quantentheorie_1925,
-	title = {Quantentheorie des einatomigen idealen {Gases} 2. {Abhandlung}},
-	journal = {Sitzungsbericht der phys.-math. Kl. der preussischen Akademie der Wissenschaften},
-	author = {Einstein, Albert},
-	year = {1925},
-	file = {Einstein_1925_Quantentheorie des einatomigen idealen Gases 2.pdf:C\:\\Users\\dany_\\Zotero\\storage\\YHF664IG\\Einstein_1925_Quantentheorie des einatomigen idealen Gases 2.pdf:application/pdf},
-}
-
-@article{bose_plancks_1924,
-	title = {Plancks {Gesetz} und {Lichtquantenhypothese}},
-	volume = {26},
-	issn = {0044-3328},
-	url = {https://doi.org/10.1007/BF01327326},
-	doi = {10.1007/BF01327326},
-	abstract = {Der Phasenraum eines Lichtquants in bezug auf ein gegebenes Volumen wird in „Zellen“ von der Größe h3 aufgeteilt. Die Zahl der möglichen Verteilungen der Lichtquanten einer makroskopisch definierten Strahlung unter diese Zellen liefert die Entropie und damit alle thermodynamischen Eigenschaften der Strahlung.},
-	language = {de},
-	number = {1},
-	urldate = {2023-12-11},
-	journal = {Zeitschrift für Physik},
-	author = {Bose, Satyendra Nath},
-	month = dec,
-	year = {1924},
-	pages = {178--181},
-	file = {Bose_1924_Plancks Gesetz und Lichtquantenhypothese.pdf:C\:\\Users\\dany_\\Zotero\\storage\\J6JNEL46\\Bose_1924_Plancks Gesetz und Lichtquantenhypothese.pdf:application/pdf},
-}
-
-@article{PhysRevLett.75.3969,
-  title = {Bose-Einstein Condensation in a Gas of Sodium Atoms},
-  author = {Davis, K. B. and Mewes, M. -O. and Andrews, M. R. and van Druten, N. J. and Durfee, D. S. and Kurn, D. M. and Ketterle, W.},
-  journal = {Phys. Rev. Lett.},
-  volume = {75},
-  issue = {22},
-  pages = {3969--3973},
-  numpages = {0},
-  year = {1995},
-  month = {Nov},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevLett.75.3969},
-  url = {https://link.aps.org/doi/10.1103/PhysRevLett.75.3969}
-}
-
-
-@article{PhysRevLett.85.1795,
-  title = {Stable ${}^{85}\mathrm{Rb}$ Bose-Einstein Condensates with Widely Tunable Interactions},
-  author = {Cornish, S. L. and Claussen, N. R. and Roberts, J. L. and Cornell, E. A. and Wieman, C. E.},
-  journal = {Phys. Rev. Lett.},
-  volume = {85},
-  issue = {9},
-  pages = {1795--1798},
-  numpages = {0},
-  year = {2000},
-  month = {Aug},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevLett.85.1795},
-  url = {https://link.aps.org/doi/10.1103/PhysRevLett.85.1795}
-}
-
-
-@article{wettlaufer_melting_2000,
-	title = {Melting {Below} {Zero}},
-	volume = {282},
-	issn = {0036-8733},
-	url = {https://www.jstor.org/stable/26058600},
-	number = {2},
-	urldate = {2024-01-01},
-	journal = {Scientific American},
-	author = {Wettlaufer, John S. and Dash, J. Greg},
-	year = {2000},
-	note = {Publisher: Scientific American, a division of Nature America, Inc.},
-	pages = {50--53},
-}
-
-@misc{PVT_diagram,
-author = {Gábor I. Csonka},
-  title = {{PVT Diagram}},
-  url = {http://web.inc.bme.hu/csonka/csg/oktat/english/phasediag.htm},
-  note = {Accessed: 2024-01-01}
-}
-
-@misc{phase_diagram,
-author = {wikipedia},
-  title = {Phase diagram},
-  url = {https:/en.wikipedia.org/wiki/Phase{\_}diagram},
-  note = {Accessed: 2024-01-01}
-}
-
-
-@misc{borg_what_2003,
-	title = {What is osmosis? {Explanation} and understanding of a physical phenomenon},
-	shorttitle = {What is osmosis?},
-	url = {http://arxiv.org/abs/physics/0305011},
-	doi = {10.48550/arXiv.physics/0305011},
-	abstract = {Although osmosis is a familiar phenomenon, and of pivotal importance in natural systems, it is seldom explained how it might work on the molecular level (if treated at all in physics text books). The standard treatment of osmosis in thermodynamics employs the concept of the chemical potential and does not give any clues how the process "really" works. On the other hand one may also encounter conflicting qualitative and molecular explanations of osmosis. We use the case of osmosis in the present paper to elucidate different ways to "explain" and "understand" physical phenomena. The role of qualitative understanding of physical phenomena is emphasized. However, as the case of osmosis demonstrates, there may be a big gap between the abstract macroscopic theory and molecular conceptions of the mechanism.},
-	urldate = {2024-01-02},
-	publisher = {arXiv},
-	author = {Borg, Frank G.},
-	month = may,
-	year = {2003},
-	note = {arXiv:physics/0305011},
-	keywords = {Physics - General Physics},
-	file = {arXiv.org Snapshot:C\:\\Users\\dany_\\Zotero\\storage\\KMHDXEWU\\0305011.html:text/html;Borg_2003_What is osmosis.pdf:C\:\\Users\\dany_\\OneDrive - UT Cloud\\ZoteroStorage\\Borg_2003_What is osmosis.pdf:application/pdf},
-}
 
 %%%%%%%%%%%%% new entries QMetro book %%%%%%%%%%%%%%%%%%%
 
@@ -21326,6 +21199,26 @@ KEYWORDS = {},
 }
 
 
+@article{alkali_IX,
+	title = {Dynamical polarizability of atoms in arbitrary light fields: general theory and application to cesium},
+	volume = {67},
+	issn = {1434-6060, 1434-6079},
+	shorttitle = {Dynamical polarizability of atoms in arbitrary light fields},
+	url = {http://link.springer.com/10.1140/epjd/e2013-30729-x},
+	doi = {10.1140/epjd/e2013-30729-x},
+	abstract = {We present a systematic derivation of the dynamical polarizability and the ac Stark shift of the ground and excited states of atoms interacting with a far-oﬀ-resonance light ﬁeld of arbitrary polarization. We calculate the scalar, vector, and tensor polarizabilities of atomic cesium using resonance wavelengths and reduced matrix elements for a large number of transitions. We analyze the properties of the ﬁctitious magnetic ﬁeld produced by the vector polarizability in conjunction with the ellipticity of the polarization of the light ﬁeld.},
+	language = {en},
+	number = {5},
+	urldate = {2023-06-19},
+	journal = {The European Physical Journal D},
+	author = {Le Kien, Fam and Schneeweiss, Philipp and Rauschenbeutel, Arno},
+	month = may,
+	year = {2013},
+	keywords = {QMetro book},
+	pages = {92},
+	file = {Le Kien et al. - 2013 - Dynamical polarizability of atoms in arbitrary lig.pdf:C\:\\Users\\dany_\\Zotero\\storage\\QSVKCCSP\\Le Kien et al. - 2013 - Dynamical polarizability of atoms in arbitrary lig.pdf:application/pdf},
+}
+
 
 @ARTICLE{Kastler50,
 AUTHOR = {Kastler, A.},
@@ -21550,7 +21443,7 @@ title={Some suggestions concerning the production and detection by optical means
 	file = {APS Snapshot:C\:\\Users\\dany_\\Zotero\\storage\\YMW5YR9D\\PhysRevA.79.html:text/html;Rosenbusch et al_2009_ac Stark shift of the Cs microwave atomic clock transitions.pdf:C\:\\Users\\dany_\\Zotero\\storage\\JW8UKJNW\\Rosenbusch et al_2009_ac Stark shift of the Cs microwave atomic clock transitions.pdf:application/pdf},
 }
 
-@article{alkali_IX,
+@article{le_kien_dynamical_2013,
 	title = {Dynamical polarizability of atoms in arbitrary light fields: general theory and application to cesium},
 	volume = {67},
 	issn = {1434-6060, 1434-6079},
@@ -21582,137 +21475,19 @@ title={Some suggestions concerning the production and detection by optical means
 ADS Bibcode: 2008PhDT.......309S},
 }
 
-
-@article{seltzer_unshielded_2004,
-	title = {Unshielded three-axis vector operation of a spin-exchange-relaxation-free atomic magnetometer},
-	volume = {85},
-	issn = {0003-6951},
-	url = {https://doi.org/10.1063/1.1814434},
-	doi = {10.1063/1.1814434},
-	abstract = {We describe a vector alkali–metal magnetometer that simultaneously and independently measures all three components of the magnetic field. Using a feedback system, the total field at the location of the magnetometer is kept near zero, suppressing the broadening due to spin-exchange collisions. The resonance linewidth and signal strength of the magnetometer compare favorably with two different scalar operation modes in which spin-exchange relaxation is only partially suppressed. Magnetic field sensitivity on the order of 1pT∕Hz is demonstrated in a laboratory environment without magnetic shields.},
-	number = {20},
-	urldate = {2023-06-08},
-	journal = {Applied Physics Letters},
-	author = {Seltzer, S. J. and Romalis, M. V.},
-	month = nov,
-	year = {2004},
-	keywords = {QMetro book},
-	pages = {4804--4806},
-	file = {Seltzer and Romalis - 2004 - Unshielded three-axis vector operation of a spin-e.pdf:C\:\\Users\\dany_\\Zotero\\storage\\YME4YNMJ\\Seltzer and Romalis - 2004 - Unshielded three-axis vector operation of a spin-e.pdf:application/pdf;Snapshot:C\:\\Users\\dany_\\Zotero\\storage\\W6IA52L8\\Unshielded-three-axis-vector-operation-of-a-spin.html:text/html},
+@BOOK{GardinerZoller,
+AUTHOR = {C. W. Gardiner and P. Zoller},
+TITLE = {??Vol2ofblackseries??}, 
+PUBLISHER = {Springer},
+YEAR = {2004},
+VOLUME = {},
+NUMBER = {},
+SERIES = {},
+ADDRESS = {Berlin, Heidelberg, New York},
+MONTH = {},
+NOTE = {},
+KEYWORDS = {},
 }
-
-@book{gardiner_quantum_2015,
-	address = {London},
-	title = {The {Quantum} {World} of {Ultra}-{Cold} {Atoms} and {Light} {Book} {II}: {The} {Physics} of {Quantum}-{Optical} {Devices}},
-	isbn = {978-1-78326-615-9},
-	shorttitle = {The {Quantum} {World} of {Ultra}-{Cold} {Atoms} and {Light} {Book} {II}},
-	abstract = {This century has seen the development of technologies for manipulating and controlling matter and light at the level of individual photons and atoms, a realm in which physics is fully quantum-mechanical. The dominant experimental technology is the laser, and the theoretical paradigm is quantum optics.The Quantum World of Ultra-Cold Atoms and Light is a trilogy, which presents the quantum optics way of thinking and its applications to quantum devices. This book — The Physics of Quantum-Optical Devices — provides a comprehensive treatment of theoretical quantum optics. It covers applications to the optical manipulation of the quantum states of atoms, laser cooling, continuous measurement, quantum computers and quantum processors, superconducting systems and quantum networks. The subject is consistently formulated in terms of quantum stochastic techniques, and a systematic and thorough development of these techniques is a central part of the book. There is also a compact overview of the ideas of quantum information theory.The main aim of the book is to present the theoretical techniques necessary for the understanding of quantum optical devices, with special attention to those devices used in quantum information processing and quantum simulation. Although these techniques were developed originally for the optical regime, they are also applicable to electromagnetic radiation from the microwave realm to the ultra-violet, and for atomic systems, Josephson junction systems, quantum dots and nano-mechanical systems.},
-	language = {Englisch},
-	publisher = {ICP},
-	author = {Gardiner, Crispin and Zoller, Peter},
-	month = jul,
-	year = {2015},
-}
-
-
-@book{edmonds_angular_1996,
-	address = {Princeton},
-	edition = {Reissue Edition},
-	title = {Angular {Momentum} in {Quantum} {Mechanics}},
-	isbn = {978-0-691-02589-6},
-	abstract = {This book offers a concise introduction to the angular momentum, one of the most fundamental quantities in all of quantum mechanics. Beginning with the quantization of angular momentum, spin angular momentum, and the orbital angular momentum, the author goes on to discuss the Clebsch-Gordan coefficients for a two-component system. After developing the necessary mathematics, specifically spherical tensors and tensor operators, the author then investigates the 3-j, 6-j, and 9-j symbols. Throughout, the author provides practical applications to atomic, molecular, and nuclear physics. These include partial-wave expansions, the emission and absorption of particles, the proton and electron quadrupole moment, matrix element calculation in practice, and the properties of the symmetrical top molecule.},
-	language = {Englisch},
-	publisher = {Princeton University Press},
-	author = {Edmonds, A. R.},
-	month = jan,
-	year = {1996},
-}
-
-
-@article{chaudhury_quantum_2009,
-	title = {Quantum signatures of chaos in a kicked top},
-	volume = {461},
-	issn = {0028-0836},
-	url = {http://www.nature.com/nature/journal/v461/n7265/full/nature08396.html},
-	doi = {10.1038/nature08396},
-	abstract = {Chaotic behaviour is ubiquitous and plays an important part in most fields of science. In classical physics, chaos is characterized by hypersensitivity of the time evolution of a system to initial conditions. Quantum mechanics does not permit a similar definition owing in part to the uncertainty principle, and in part to the Schrödinger equation, which preserves the overlap between quantum states. This fundamental disconnect poses a challenge to quantum–classical correspondence, and has motivated a long-standing search for quantum signatures of classical chaos. Here we present the experimental realization of a common paradigm for quantum chaos—the quantum kicked top— and the observation directly in quantum phase space of dynamics that have a chaotic classical counterpart. Our system is based on the combined electronic and nuclear spin of a single atom and is therefore deep in the quantum regime; nevertheless, we find good correspondence between the quantum dynamics and classical phase space structures. Because chaos is inherently a dynamical phenomenon, special significance attaches to dynamical signatures such as sensitivity to perturbation or the generation of entropy and entanglement, for which only indirect evidence has been available. We observe clear differences in the sensitivity to perturbation in chaotic versus regular, non-chaotic regimes, and present experimental evidence for dynamical entanglement as a signature of chaos.},
-	language = {en},
-	number = {7265},
-	urldate = {2016-11-30},
-	journal = {Nature},
-	author = {Chaudhury, S. and Smith, A. and Anderson, B. E. and Ghose, S. and Jessen, P. S.},
-	year = {2009},
-	pages = {768--771},
-	file = {Full Text PDF:C\:\\Users\\dany_\\Zotero\\storage\\UG8IF5V4\\Chaudhury et al. - 2009 - Quantum signatures of chaos in a kicked top.pdf:application/pdf;Snapshot:C\:\\Users\\dany_\\Zotero\\storage\\V6FWZDRJ\\nature08396.html:text/html},
-}
-
-@article{PhysRevLett.105.070801,
-  title = {Polarized Alkali-Metal Vapor with Minute-Long Transverse Spin-Relaxation Time},
-  author = {Balabas, M. V. and Karaulanov, T. and Ledbetter, M. P. and Budker, D.},
-  journal = {Phys. Rev. Lett.},
-  volume = {105},
-  issue = {7},
-  pages = {070801},
-  numpages = {4},
-  year = {2010},
-  month = {Aug},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevLett.105.070801},
-  url = {https://link.aps.org/doi/10.1103/PhysRevLett.105.070801}
-}
-
-@article{PhysRev.116.87,
-  title = {${\mathrm{N}}^{14}$-${\mathrm{N}}^{15}$ Hyperfine Anomaly},
-  author = {Anderson, L. Wilmer and Pipkin, Francis M. and Baird, James C.},
-  journal = {Phys. Rev.},
-  volume = {116},
-  issue = {1},
-  pages = {87--98},
-  numpages = {0},
-  year = {1959},
-  month = {Oct},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRev.116.87},
-  url = {https://link.aps.org/doi/10.1103/PhysRev.116.87}
-}
-
-@article{PhysRev.108.1453,
-  title = {Atomic Orientation by Optical Pumping},
-  author = {Franzen, W. and Emslie, A. G.},
-  journal = {Phys. Rev.},
-  volume = {108},
-  issue = {6},
-  pages = {1453--1458},
-  numpages = {0},
-  year = {1957},
-  month = {Dec},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRev.108.1453},
-  url = {https://link.aps.org/doi/10.1103/PhysRev.108.1453}
-}
-
-
-@book{goodman_statistical_2015,
-	address = {Hoboken, New Jersey},
-	edition = {2},
-	title = {Statistical {Optics}},
-	isbn = {978-1-119-00945-0},
-	language = {Englisch},
-	publisher = {John Wiley \& Sons Inc},
-	author = {Goodman, Joseph W.},
-	year = {2015},
-}
-
-@book{OnlineMaterial,
-	edition = {Reissue Edition},
-	title = {Online Material for the Book "Quantum Metrology"},
-	abstract = {This is the online material for the Book "Quantum Metrology"},
-	publisher = {Cambridge University Press},
-	author = {Braun, Daniel and Marzolino, Ugo},
-	year = {2025},
-	url = {https://...},
-}
-
 
 @Comment{jabref-meta: databaseType:bibtex;}
 
