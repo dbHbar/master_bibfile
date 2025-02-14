@@ -20451,7 +20451,7 @@ NOTE = {},
 KEYWORDS = {},
 }
 
-@BOOK{
+@BOOK{Bengtsson06,
 AUTHOR = {Ingemar Bengtsson and Karol \.{Z}yczkowski},
 TITLE = {Geometry of quantum states: an introduction to quantum entanglement}, 
 PUBLISHER = {Cambride University Press},
@@ -23239,7 +23239,7 @@ Publisher: Nature Publishing Group},
 	file = {EisertP_quantph0312071.pdf:C\:\\Users\\danyb\\Zotero\\storage\\T2AJCKBJ\\EisertP_quantph0312071.pdf:application/pdf},
 }
 
-@article{plenio_introduction_2005,
+@article{
 	title = {An introduction to entanglement measures},
 	volume = {7},
 	url = {http://arxiv.org/abs/quant-ph/0504163},
