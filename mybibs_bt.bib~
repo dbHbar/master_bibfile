@@ -20451,7 +20451,7 @@ NOTE = {},
 KEYWORDS = {},
 }
 
-@BOOK{
+@BOOK{Bengtsson06,
 AUTHOR = {Ingemar Bengtsson and Karol \.{Z}yczkowski},
 TITLE = {Geometry of quantum states: an introduction to quantum entanglement}, 
 PUBLISHER = {Cambride University Press},
@@ -23411,7 +23411,7 @@ Publisher: Nature Publishing Group},
 	abstract = {How can one prove that a given state is entangled? In this paper we review different methods that have been proposed for entanglement detection. We first explain the basic elements of entanglement theory for two or more particles and then entanglement verification procedures such as Bell inequalities, entanglement witnesses, the determination of nonlinear properties of a quantum state via measurements on several copies, and spin squeezing inequalities. An emphasis is given on the theory and application of entanglement witnesses. We also discuss several experiments, where some of the presented methods have been implemented.},
 	urldate = {2011-05-06},
 	journal = {Physics Reports},
-	author = {GÃ¼hne, Otfried and Toth, Geza},
+	author = {G\"uhne, Otfried and Toth, Geza},
 	year = {2009},
 	note = {Physics Reports 474, 1 (2009)},
 	keywords = {Condensed Matter - Other Condensed Matter, Quantum Physics, Physics - Optics},
