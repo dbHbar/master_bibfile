@@ -4784,6 +4784,21 @@ pages = {309-314}
   publisher = {American Physical Society},
 }
 
+@article{PhysRevA.78.032114,
+  title = {Hardy's test versus the Clauser-Horne-Shimony-Holt test of quantum nonlocality: Fundamental and practical aspects},
+  author = {Braun, Daniel and Choi, Mahn-Soo},
+  journal = {Phys. Rev. A},
+  volume = {78},
+  issue = {3},
+  pages = {032114},
+  numpages = {11},
+  year = {2008},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.78.032114},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.78.032114}
+}
+
 %%%%%%%%%%%%%%%%%% MSC's bib for Hardy %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 @article{Gustavsson07a,
 Author= {Gustavsson, S. and Leturcq, R. and Ihn, T. and Ensslin, K. and
@@ -21057,6 +21072,21 @@ pages = {1--26},
 url = {},
 year = {2023}
 }
+@article{Agarwal86,
+  title = {Relation between atomic coherent-state representation, state multipoles, and generalized phase-space distributions},
+  author = {Agarwal, G. S.},
+  journal = {Phys. Rev. A},
+  volume = {24},
+  issue = {6},
+  pages = {2889--2896},
+  numpages = {0},
+  year = {1981},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.24.2889},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.24.2889}
+}
+
 @article{Samach2022,
 author = {Samach, Gabriel O. and Greene, Ami and Borregaard, Johannes and Christandl, Matthias and Barreto, Joseph and Kim, David K. and McNally, Christopher M. and Melville, Alexander and Niedzielski, Bethany M. and Sung, Youngkyu and Rosenberg, Danna and Schwartz, Mollie E. and Yoder, Jonilyn L. and Orlando, Terry P. and Wang, Joel I.Jan and Gustavsson, Simon and Kjaergaard, Morten and Oliver, William D.},
 title = {{Lindblad Tomography of a Superconducting Quantum Processor}},
@@ -21849,6 +21879,197 @@ Publisher: Nature Publishing Group},
   url = {https://link.aps.org/doi/10.1103/PhysRevApplied.16.034013}
 }
 
+
+
+@article{aharonov_time_1964,
+	title = {Time {Symmetry} in the {Quantum} {Process} of {Measurement}},
+	volume = {134},
+	url = {https://link.aps.org/doi/10.1103/PhysRev.134.B1410},
+	doi = {10.1103/PhysRev.134.B1410},
+	abstract = {We examine the assertion that the "reduction of the wave packet," implicit in the quantum theory of measurement introduces into the foundations of quantum physics a time-asymmetric element, which in turn leads to irreversibility. We argue that this time assymmetry is actually related to the manner in which statistical ensembles are constructed. If we construct an ensemble time symmetrically by using both initial and final states of the system to delimit the sample, then the resulting probability distribution turns out to be time symmetric as well. The conventional expressions for prediction as well as those for "retrodiction" may be recovered from the time-symmetric expressions formally by separating the final (or the initial) selection procedure from the measurements under consideration by sequences of "coherence destroying" manipulations. We can proceed from this situation, which resembles prediction, to true prediction (which does not involve any postselection) by adding to the time-symmetric theory a postulate which asserts that ensembles with unambiguous probability distributions may be constructed on the basis of preselection only. If, as we believe, the validity of this postulate and the falsity of its time reverse result from the macroscopic irreversibility of our universe as a whole, then the basic laws of quantum physics, including those referring to measurements, are as completely time symmetric as the laws of classical physics. As a by-product of our analysis, we also find that during the time interval between two noncommuting observations, we may assign to a system the quantum state corresponding to the observation that follows with as much justification as we assign, ordinarily, the state corresponding to the preceding measurement.},
+	number = {6B},
+	urldate = {2025-02-16},
+	journal = {Physical Review},
+	author = {Aharonov, Yakir and Bergmann, Peter G. and Lebowitz, Joel L.},
+	month = jun,
+	year = {1964},
+	note = {Publisher: American Physical Society},
+	pages = {B1410--B1416},
+	file = {Aharonov et al_1964_Time Symmetry in the Quantum Process of Measurement.pdf:C\:\\Users\\danyb\\Zotero\\storage\\L7IIWVQ6\\Aharonov et al_1964_Time Symmetry in the Quantum Process of Measurement.pdf:application/pdf;APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\YHANS5MI\\PhysRev.134.html:text/html},
+}
+
+
+
+@article{wiseman_grounding_2007,
+	title = {Grounding {Bohmian} mechanics in weak values and bayesianism},
+	volume = {9},
+	issn = {1367-2630},
+	url = {http://iopscience.iop.org/1367-2630/9/6/165},
+	doi = {10.1088/1367-2630/9/6/165},
+	abstract = {Bohmian mechanics (BM) is a popular interpretation of quantum mechanics (QM) in which particles have real positions. The velocity of a point x in configuration space is defined as the standard probability current j(x) divided by the probability density P(x). However, this 'standard' j is in fact only one of infinitely many that transform correctly and satisfy . In this paper, I show that a particular j is singled out if one requires that j be determined experimentally as a weak value, using a technique that would make sense to a physicist with no knowledge of QM. This 'naively observable' j seems the most natural way to define j operationally. Moreover, I show that this operationally defined j equals the standard j, so, assuming , one obtains the dynamics of BM. It follows that the possible Bohmian paths are naively observable from a large enough ensemble. Furthermore, this justification for the Bohmian law of motion singles out x as the hidden variable, because (for example) the analogously defined momentum current is in general incompatible with the evolution of the momentum distribution. Finally I discuss how, in this setting, the usual quantum probabilities can be motivated from a Bayesian standpoint, via the principle of indifference.},
+	number = {6},
+	urldate = {2013-04-24},
+	journal = {New Journal of Physics},
+	author = {Wiseman, H. M.},
+	month = jun,
+	year = {2007},
+	pages = {165},
+	file = {Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\C2E2PUHI\\Wiseman - 2007 - Grounding Bohmian mechanics in weak values and bay.pdf:application/pdf;Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\K2ZQAWAQ\\165.html:text/html},
+}
+
+
+@article{aharonov_how_1988,
+	title = {How the result of a measurement of a component of the spin of a spin-1/2 particle can turn out to be 100},
+	volume = {60},
+	url = {https://link.aps.org/doi/10.1103/PhysRevLett.60.1351},
+	doi = {10.1103/PhysRevLett.60.1351},
+	abstract = {We have found that the usual measuring procedure for preselected and postselected ensembles of quantum systems gives unusual results. Under some natural conditions of weakness of the measurement, its result consistently defines a new kind of value for a quantum variable, which we call the weak value. A description of the measurement of the weak value of a component of a spin for an ensemble of preselected and postselected spin-(1/2 particles is presented.},
+	number = {14},
+	urldate = {2025-02-16},
+	journal = {Physical Review Letters},
+	author = {Aharonov, Yakir and Albert, David Z. and Vaidman, Lev},
+	month = apr,
+	year = {1988},
+	note = {Publisher: American Physical Society},
+	pages = {1351--1354},
+	file = {Aharonov et al_1988_How the result of a measurement of a component of the spin of a spin-1-2.pdf:C\:\\Users\\danyb\\Zotero\\storage\\UKX2ZAHV\\Aharonov et al_1988_How the result of a measurement of a component of the spin of a spin-1-2.pdf:application/pdf;APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\FL38VWFG\\PhysRevLett.60.html:text/html},
+}
+
+
+@article{fixler_atom_2007,
+	title = {Atom {Interferometer} {Measurement} of the {Newtonian} {Constant} of {Gravity}},
+	volume = {315},
+	copyright = {American Association for the Advancement of Science},
+	issn = {0036-8075, 1095-9203},
+	url = {http://science.sciencemag.org/content/315/5808/74},
+	doi = {10.1126/science.1135459},
+	abstract = {We measured the Newtonian constant of gravity, G, using a gravity gradiometer based on atom interferometry. The gradiometer measures the differential acceleration of two samples of laser-cooled Cs atoms. The change in gravitational field along one dimension is measured when a well-characterized Pb mass is displaced. Here, we report a value of G = 6.693 × 10–11 cubic meters per kilogram second squared, with a standard error of the mean of ±0.027 × 10–11 and a systematic error of ±0.021 × 10–11 cubic meters per kilogram second squared. The possibility that unknown systematic errors still exist in traditional measurements makes it important to measure G with independent methods.
+Interference of waves from two samples of cold cesium atoms changes in response to a nearby lead weight, providing an accurate measurement of the gravitational constant.
+Interference of waves from two samples of cold cesium atoms changes in response to a nearby lead weight, providing an accurate measurement of the gravitational constant.},
+	number = {5808},
+	urldate = {2018-10-07},
+	journal = {Science},
+	author = {Fixler, J. B. and Foster, G. T. and McGuirk, J. M. and Kasevich, M. A.},
+	month = jan,
+	year = {2007},
+	pmid = {17204644},
+	pages = {74--77},
+	file = {Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\2KWVFRQK\\Fixler et al. - 2007 - Atom Interferometer Measurement of the Newtonian C.pdf:application/pdf;Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\V6QMNAMB\\74.html:text/html},
+}
+
+@article{cavendish_xxi_1997,
+	title = {{XXI}. {Experiments} to determine the density of the earth},
+	volume = {88},
+	url = {https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022},
+	doi = {10.1098/rstl.1798.0022},
+	abstract = {Many years ago, the late Rev. John Michell, of this Society, contrived a method of determining the density of the earth, by rendering sensible the attraction of small quantities of matter; but, as he was engaged in other pursuits he did not complete the apparatus till a short time before his death, and did not live to make any experiments with it. After his death, the apparatus came to the Rev. Francis John Hyde Wollaston, Jacksonian Professor at Cambridge, who, not having conveniÂ­ences for making experiments with it, in,the manner he could wish, was so good as to give it to me. The apparatus is very simple; it consists of a wooden arm, 6 feet long, made so as to unite great strength with little weight. This arm is suspended in an horizontal position, by a slender wire 40 inches long, and to each extremity is hung a leaden ball, about 2 inches in diameter; and the whole is inÂ­ closed in a narrow wooden case, to defend it from the wind.},
+	urldate = {2025-02-24},
+	journal = {Philosophical Transactions of the Royal Society of London},
+	author = {Cavendish, Henry},
+	month = jan,
+	year = {1997},
+	note = {Publisher: Royal Society},
+	pages = {469--526},
+	file = {Cavendish_1997_XXI.pdf:C\:\\Users\\danyb\\Zotero\\storage\\KY4KET9B\\Cavendish_1997_XXI.pdf:application/pdf},
+}
+
+
+@book{tumulka_foundations_nodate,
+	title = {Foundations of {Quantum} {Mechanics}},
+	abstract = {This book introduces and critically appraises the main proposals for how to understand quantum mechanics, namely the Copenhagen interpretation, spontaneous collapse, Bohmian mechanics, many-worlds, and others. The author makes clear what are the crucial problems, such as the measurement problem, related to the foundations of quantum mechanics and explains the key arguments like the Einstein-Podolsky-Rosen argument and Bell’s proof of nonlocality. He discusses and clarifies numerous topics that have puzzled the founding fathers of quantum mechanics and present-day students alike, such as the possibility of hidden variables, the collapse of the wave function, time-of-arrival measurements, explanations of the symmetrization postulate for identical particles, or the nature of spin. Several chapters are devoted to extending the different approaches to relativistic space-time and quantum field theory. The book is self-contained and is intended for graduate students and researchers who want to step into the fundamental aspects of quantum physics. Given its clarity, it is accessible also to advanced undergraduates and contains many exercises and examples to master the subject.},
+	author = {Tumulka, Roderich},
+	year = {2022},
+	note = {Publisher: Springer},
+}
+
+
+@article{birkhoff_three_1946,
+	title = {Three observations on linear algebra},
+	volume = {5},
+	journal = {Univ. Nac. TucumÃ¡n. Revista A.},
+	author = {Birkhoff, Garrett},
+	year = {1946},
+	mrnumber = {20547},
+	pages = {147--151},
+	file = {Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\YGDU95SC\\article.html:text/html},
+}
+
+
+@article{schrodinger_are_1952,
+	title = {Are there quantum jumps ?: part ii*},
+	volume = {3},
+	issn = {0007-0882},
+	shorttitle = {Are there quantum jumps ?},
+	url = {https://www.journals.uchicago.edu/doi/10.1093/bjps/III.11.233},
+	doi = {10.1093/bjps/III.11.233},
+	number = {11},
+	urldate = {2025-03-04},
+	journal = {The British Journal for the Philosophy of Science},
+	author = {SchrÃ¶dinger, E.},
+	month = nov,
+	year = {1952},
+	note = {Publisher: The University of Chicago Press},
+	pages = {233--242},
+	file = {SchrÃ¶dinger_1952_Are there quantum jumps.pdf:C\:\\Users\\danyb\\Zotero\\storage\\TY4A65AQ\\SchrÃ¶dinger_1952_Are there quantum jumps.pdf:application/pdf},
+}
+
+
+
+@book{einstein_born-einstein_1971,
+	title = {The {Born}-{Einstein} letters : correspondence between {Albert} {Einstein} and {Max} and {Hedwig} {Born} from 1916-1955, with commentaries by {Max} {Born}},
+	shorttitle = {The {Born}-{Einstein} letters},
+	url = {https://cir.nii.ac.jp/crid/1130000795551272832},
+	urldate = {2025-03-04},
+	publisher = {Macmillan},
+	author = {Einstein, Albert and Born, Max and Born, Hedwig},
+	year = {1971},
+	file = {The Born-Einstein letters \: correspondence between Albert Einstein and Max and Hedwig Born from 1916-1955, with commentaries by Max Born Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\RMUSDDDV\\1130000795551272832.html:text/html},
+}
+
+
+@book{khrennikov_beyond_2014,
+	address = {Singapore},
+	title = {Beyond {Quantum}},
+	isbn = {978-981-4411-73-8},
+	abstract = {The present wave of interest in quantum foundations is caused by the tremendous development of quantum information science and its applications to quantum computing and quantum communication. It has become clear that some of the difficulties encountered in realizations of quantum information processing have roots at the very fundamental level. To solve such problems, quantum theory has to be reconsidered. This book is devoted to the analysis of the probabilistic structure of quantum theory, probing the limits of classical probabilistic representation of quantum phenomena.},
+	language = {Englisch},
+	publisher = {Pan Stanford Publishing Pte Ltd},
+	author = {Khrennikov, Andrei},
+	month = apr,
+	year = {2014},
+}
+
+@article{shimony1984controllable,
+  title={Controllable and uncontrollable non-locality},
+  author={Shimony, Abner and others},
+  journal={Foundations of quantum mechanics in the light of new technology},
+  pages={225--230},
+  year={1984},
+  publisher={Physical Society of Japan Tokyo}
+}
+
+@incollection{Shimony1986-SHIEAP,
+	author = {Abner Shimony},
+	booktitle = {Quantum concepts in space and time},
+	editor = {Roger Penrose and C. J. Isham},
+	pages = {182--203},
+	publisher = {Oxford University Press},
+	title = {Events and Processes in the Quantum World},
+	year = {1986}
+}
+
+
+@phdthesis{peacock_peaceful_1991,
+	title = {Peaceful coexistence or armed truce?: quantum nonlocality and the spacetime view of the world},
+	shorttitle = {Peaceful coexistence or armed truce?},
+	url = {https://hdl.handle.net/10133/5444},
+	abstract = {This thesis is concerned with a critical examination of the notion of “peaceful coexistence” between quantum mechanics and the theory of relativity. This phrase, coined by Abner Shimony, is meant to suggest that quantum mechanics does not predict any observable conﬂict with the relativistic picture of causation, even though quantum mechanics, a fundamentally nonlocal theory, does clearly violate a condition called “outcome independence” which would seem to be implicit in any local realistic theory. The main justiﬁcation that Shimony and others have cited for this view is the NoSignalling Theorem, the claim that quantum nonlocality cannot be exploited to violate the relativistic picture of causation by sending controllable signals outside the light cone. (This would be a violation of what Shimony and Jarrett have called “parameter independence”.) I examine the various proofs that have been given of this theorem, and show that they are essentially circular in the sense that they either incorporate such strongassumptionsaboutthelocalizabilityorcommutativityofobservablesastorender them incapable of dealing with the very cases they should be best equipped to treat, or else simply presume some condition equivalent to relativistic causality. Quantum mechanics has therefore not been shown to provide a categorical prohibition against violations of relativity; the question of peaceful coexistence remains open. I argue that this circumstance should not be viewed as surprising since relativity, being a classical theory, should be expected to be only an approximation. In conclusion I sketch some requisites for a genuinely quantal theory of spacetime.},
+	urldate = {2025-03-04},
+	school = {University of Toronto},
+	author = {Peacock, Kent A.},
+	year = {1991},
+	file = {Peacock_1991_Peaceful coexistence or armed truce.pdf:C\:\\Users\\danyb\\Zotero\\storage\\MELJY5GD\\Peacock_1991_Peaceful coexistence or armed truce.pdf:application/pdf},
+}
 
 
 %%%%%%%%%%%%% new entries QMetro book %%%%%%%%%%%%%%%%%%%
@@ -23443,7 +23664,6 @@ Publisher: Nature Publishing Group},
 	url = {https://link.springer.com/article/10.1007/s00220-017-2859-0},
 	doi = {10.1007/s00220-017-2859-0},
 	abstract = {We present a stronger version of the Doherty–Parrilo–Spedalieri (DPS) hierarchy of approximations for the set of separable states. Unlike DPS, our hierarchy converges exactly at a finite number of rounds for any fixed input dimension. This yields an algorithm for separability testing that is singly exponential in dimension and polylogarithmic in accuracy. Our analysis makes use of tools from algebraic geometry, but our algorithm is elementary and differs from DPS only by one simple additional collection of constraints.},
-	language = {en},
 	number = {3},
 	urldate = {2017-07-06},
 	journal = {Communications in Mathematical Physics},
