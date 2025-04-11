@@ -1494,7 +1494,8 @@ JOURNAL = {Phys. Rev. Lett.},
 VOLUME = {85},
 PAGES = {1762},
 YEAR = {2000},
-title={Quantum Computing Using Dissipation to Remain in a Decoherence-Free Subspace}
+title={Quantum Computing Using Dissipation to Remain in a Decoherence-Free Subspace},
+doi = {DOI: https://doi.org/10.1103/PhysRevLett.85.1762}
 }
 
 
@@ -2602,7 +2603,8 @@ VOLUME = {86},
 PAGES = {2913-2917},
 YEAR = {2001},
 tit={},
-title={Universality of Decoherence}
+title={Universality of Decoherence},
+doi = {DOI: https://doi.org/10.1103/PhysRevLett.86.2913}
 }
 
 @ARTICLE{Mahalanobis36,
@@ -8713,6 +8715,7 @@ keywords = "States"
 	author = {Wiebe, Nathan and Braun, Daniel and Lloyd, Seth},
 	year = {2012},
 	pages = {050505},
+	DOI= {DOI: https://doi.org/10.1103/PhysRevLett.109.050505}
 }
 
  @ARTICLE{WBHS11,
@@ -9704,7 +9707,7 @@ NOTE = {},
 KEYWORDS = {},
 }
 
-@BOOK{Perelmov86, 
+@BOOK{Perelomov86, 
 AUTHOR = {A.M. Perelomov},
 TITLE = {Generalzed Coherent States and Their Applications}, 
 PUBLISHER = {Springer-Verlag, Berlin},
@@ -22479,6 +22482,58 @@ version: 1},
 	file = {BrÃ¼ning et al_2004_LHC Design Report.pdf:C\:\\Users\\danyb\\Zotero\\storage\\YMVEFKZS\\BrÃ¼ning et al_2004_LHC Design Report.pdf:application/pdf},
 }
 
+
+@article{muller_quantum_2022,
+	title = {Quantum metrology with a non-linear kicked {Mach}-{Zehnder} interferometer},
+	volume = {55},
+	issn = {1751-8121},
+	url = {https://doi.org/10.1088/1751-8121/ac82d4},
+	doi = {10.1088/1751-8121/ac82d4},
+	abstract = {We study the sensitivity of a Mach–Zehnder interferometer that contains in addition to the phase shifter a non-linear element. By including both elements in a cavity or a loop that the light transverses many times, a non-linear kicked version of the interferometer arises. We study its sensitivity as function of the phase shift, the kicking strength, the maximally reached average number of photons, and damping due to photon loss for an initial coherent state. We find that for vanishing damping Heisenberg-limited scaling of the sensitivity arises if squeezing dominates the total photon number. For small to moderate damping rates the non-linear kicks can considerably increase the sensitivity as measured by the quantum Fisher information per unit time.},
+	language = {en},
+	urldate = {2022-08-22},
+	journal = {Journal of Physics A: Mathematical and Theoretical},
+	author = {Müller, Sabrina and Braun, Daniel},
+	month = jul,
+	year = {2022},
+	note = {Publisher: IOP Publishing},
+	pages = {384001},
+	file = {Müller_Braun_2022_Quantum metrology with a non-linear kicked Mach-Zehnder interferometer.pdf:C\:\\Users\\danyb\\Zotero\\storage\\6CFQNT28\\Müller_Braun_2022_Quantum metrology with a non-linear kicked Mach-Zehnder interferometer.pdf:application/pdf},
+}
+
+
+@article{brandhofer_benchmarking_2022,
+	title = {Benchmarking the performance of portfolio optimization with {QAOA}},
+	volume = {22},
+	issn = {1573-1332},
+	url = {https://doi.org/10.1007/s11128-022-03766-5},
+	doi = {10.1007/s11128-022-03766-5},
+	abstract = {We present a detailed study of portfolio optimization using different versions of the quantum approximate optimization algorithm (QAOA). For a given list of assets, the portfolio optimization problem is formulated as quadratic binary optimization constrained on the number of assets contained in the portfolio. QAOA has been suggested as a possible candidate for solving this problem (and similar combinatorial optimization problems) more efficiently than classical computers in the case of a sufficiently large number of assets. However, the practical implementation of this algorithm requires a careful consideration of several technical issues, not all of which are discussed in the present literature. The present article intends to fill this gap and thereby provides the reader with a useful guide for applying QAOA to the portfolio optimization problem (and similar problems). In particular, we will discuss several possible choices of the variational form and of different classical algorithms for finding the corresponding optimized parameters. Viewing at the application of QAOA on error-prone NISQ hardware, we also analyse the influence of statistical sampling errors (due to a finite number of shots) and gate and readout errors (due to imperfect quantum hardware). Finally, we define a criterion for distinguishing between ‘easy’ and ‘hard’ instances of the portfolio optimization problem.},
+	number = {1},
+	urldate = {2022-12-23},
+	journal = {Quantum Information Processing},
+	author = {Brandhofer, Sebastian and Braun, Daniel and Dehn, Vanessa and Hellstern, Gerhard and Hüls, Matthias and Ji, Yanjun and Polian, Ilia and Bhatia, Amandeep Singh and Wellens, Thomas},
+	month = dec,
+	year = {2022},
+	keywords = {QAOA, Quantum algorithm, Quantum computing, Quantum optimization},
+	pages = {25},
+	file = {Brandhofer et al_2022_Benchmarking the performance of portfolio optimization with QAOA.pdf:C\:\\Users\\danyb\\Zotero\\storage\\YU3JH63X\\Brandhofer et al_2022_Benchmarking the performance of portfolio optimization with QAOA.pdf:application/pdf;s11128-022-03766-5.pdf:C\:\\Users\\danyb\\Zotero\\storage\\T7MGR2ZG\\s11128-022-03766-5.pdf:application/pdf},
+}
+
+@article{PhysRevA.107.032607,
+  title = {Superresolution imaging with multiparameter quantum metrology in passive remote sensing},
+  author = {K\"ose, Emre and Braun, Daniel},
+  journal = {Phys. Rev. A},
+  volume = {107},
+  issue = {3},
+  pages = {032607},
+  numpages = {12},
+  year = {2023},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.107.032607},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.107.032607}
+}
 
 %%%%%%%%%%%%% new entries QMetro book %%%%%%%%%%%%%%%%%%%
 @article{kaluzny1983observation,
