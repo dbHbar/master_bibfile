@@ -1954,15 +1954,22 @@ tit={},
 title={}
 }
 
-@ARTICLE{Bohm52,
-AUTHOR = {D. Bohm},
-JOURNAL = {Phys. Rev.},
-VOLUME = {85},
-PAGES = {166},
-YEAR = {1952},
-tit={},
-title={}
+
+@article{Bohm52,
+  title = {A Suggested Interpretation of the Quantum Theory in Terms of "Hidden" Variables. I},
+  author = {Bohm, David},
+  journal = {Phys. Rev.},
+  volume = {85},
+  issue = {2},
+  pages = {166--179},
+  numpages = {0},
+  year = {1952},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.85.166},
+  url = {https://link.aps.org/doi/10.1103/PhysRev.85.166}
 }
+
 
 @ARTICLE{Jozsa03,
 AUTHOR = {R. Jozsa and N. Linden},
@@ -13071,6 +13078,18 @@ with enhanced precision.},
 	file = {Full Text PDF:C\:\\Users\\Daniel\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\fcj5m8oe.default\\zotero\\storage\\9BRAGTT3\\Braun und Popescu - 2014 - Coherently enhanced measurements in classical mech.pdf:application/pdf;Snapshot:C\:\\Users\\Daniel\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\fcj5m8oe.default\\zotero\\storage\\QG29ZIRX\\qmetro-2014-0003.html:text/html}
 }
 
+
+@book{gardiner_quantum_2014,
+	address = {London},
+	title = {Quantum {World} {Of} {Ultra}-{Cold} {Atoms} {And} {Light}, {The} - {Book} {I}: {Foundations} {Of} {Quantum} {Optics}: {BK} {I}},
+	isbn = {978-1-78326-461-2},
+	shorttitle = {Quantum {World} {Of} {Ultra}-{Cold} {Atoms} {And} {Light}, {The} - {Book} {I}},
+	abstract = {This century has seen the development of technologies for manipulating and controlling matter and light at the level of individual photons and atoms, a realm in which physics is fully quantum mechanical. The dominant experimental technology is the laser, and the theoretical paradigm is quantum optics.The Quantum World of Ultra-Cold Atoms and Light is a trilogy, which presents the quantum optics way of thinking and its applications to quantum devices. This book Foundations of Quantum Optics provides an introductory text on the theoretical techniques of quantum optics, containing the elements of what one needs to teach, learn, and think about quantum optics. There is a particular emphasis on the classical and quantum stochastic methods which have come to dominate the field.Book II will cover applications to quantum devices, such as quantum computers and simulators, and will include the more advanced techniques necessary to describe non-classical light fields. Book III will cover the field of ultra-cold atoms, for which the quantum-optical paradigm has proved to be highly applicable for quantitative work.},
+	publisher = {Icp},
+	author = {Gardiner, Crispin W. and Zoller, Peter},
+	year = {2014},
+}
+
 %%%%%%%%%%%%%%%% additions FouCoIm article %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 @article{braun_generalization_2015,
 	title = {Generalization of the {Van} {Cittert}--{Zernike} theorem: observers moving with respect to sources},
@@ -22822,6 +22841,426 @@ version: 1},
 	keywords = {General Relativity and Quantum Cosmology, High Energy Physics - Theory},
 	annote = {Comment: 58 pages, 8 figures. v2: Minor revisions and clarifications. References added. v3. References added},
 	file = {Elvang and Horowitz - 2014 - Quantum gravity via supersymmetry and holography.pdf:C\:\\Users\\danyb\\Zotero\\storage\\DFLXBDCR\\Elvang and Horowitz - 2014 - Quantum gravity via supersymmetry and holography.pdf:application/pdf},
+}
+
+@book{Schilpp1959-SCHAEP-19,
+	editor = {Paul Arthur Schilpp},
+	title = {Albert Einstein: Philosopher-Scientist},
+	year = {1959}
+}
+
+@article{GhirardiRiminiWeber1986,
+  title = {Unified dynamics for microscopic and macroscopic systems},
+  author = {Ghirardi, G. C. and Rimini, A. and Weber, T.},
+  journal = {Phys. Rev. D},
+  volume = {34},
+  issue = {2},
+  pages = {470--491},
+  numpages = {0},
+  year = {1986},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.34.470},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.34.470}
+}
+
+
+@article{bell_against_1990,
+	title = {Against 'measurement'},
+	volume = {3},
+	issn = {2058-7058},
+	url = {https://dx.doi.org/10.1088/2058-7058/3/8/26},
+	doi = {10.1088/2058-7058/3/8/26},
+	abstract = {Surely, after 62 years, we should have an exact formulation of some serious part of quantum mechanics? By ‘exact’ I do not of course mean ‘exactly true’. I mean only that the theory should be fully formulated in mathematical terms, with nothing left to the discretion of the theoretical physicist...until workable approximations are needed in applications. By ‘serious’ I mean that some substantial fragment of physics should be covered. Nonrelativistic ‘particle’ quantum mechanics, perhaps with the inclusion of the electromagnetic field and cut-off interaction, is serious enough. For it covers ‘a large part of physics and the whole of chemistry’ (P A M Dirac 1929 Proc. R. Soc.A 123 714). I mean too, by ‘serious’, that ‘apparatus’ should not be separated off from the rest of the world into black boxes, as if it were not made of atoms and not ruled by quantum mechanics.},
+	number = {8},
+	urldate = {2025-09-18},
+	journal = {Physics World},
+	author = {Bell, John},
+	month = aug,
+	year = {1990},
+	pages = {33},
+	file = {PDF:C\:\\Users\\danyb\\Zotero\\storage\\I469E2TE\\Bell - 1990 - Against ‘measurement’.pdf:application/pdf},
+}
+
+
+@article{salart_testing_2008,
+	title = {Testing the speed of ‘spooky action at a distance’},
+	volume = {454},
+	copyright = {2008 Macmillan Publishers Limited. All rights reserved},
+	issn = {1476-4687},
+	url = {https://www.nature.com/articles/nature07121},
+	doi = {10.1038/nature07121},
+	abstract = {Einstein called entanglement, a type of correlation found only in quantum physics, 'spooky action at a distance'. Experimental tests known as Bell inequalities have all but ruled out a classical explanation for such correlations, but the possibility remains that a first event could influence a second one, if the influence occurs faster than the speed of light. An impressive new experiment has been performed with a view to establishing a lower limit for the speed of such hypothetical influences. The experiment involved a Bell inequality test lasting more than 24 hours between two Swiss villages 18 km apart and approximately east–west oriented, with the source located precisely in the middle. Taking advantage of the Earth's rotation, the experiment allowed the determination of a lower bound for the speed of any such influence. The conclusion was that the minimal speed of hypothetical spooky action at a distance, under plausible assumptions for this experiment, is at least 10,000 times greater than the speed of light. The existence in nature of a real spooky action at a distance is therefore deemed implausible.},
+	number = {7206},
+	urldate = {2025-09-20},
+	journal = {Nature},
+	author = {Salart, Daniel and Baas, Augustin and Branciard, Cyril and Gisin, Nicolas and Zbinden, Hugo},
+	month = aug,
+	year = {2008},
+	note = {Publisher: Nature Publishing Group},
+	keywords = {Humanities and Social Sciences, multidisciplinary, Science},
+	pages = {861--864},
+	file = {Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\ZPZENKNU\\Salart et al. - 2008 - Testing the speed of ‘spooky action at a distance’.pdf:application/pdf},
+}
+
+@article{scarani_speed_2000,
+	title = {The speed of quantum information and the preferred frame: analysis of experimental data},
+	volume = {276},
+	issn = {0375-9601},
+	shorttitle = {The speed of quantum information and the preferred frame},
+	url = {https://www.sciencedirect.com/science/article/pii/S0375960100006095},
+	doi = {10.1016/S0375-9601(00)00609-5},
+	abstract = {The results of EPR experiments performed in Geneva are analyzed in the frame of the cosmic microwave background radiation, generally considered as a good candidate for playing the role of preferred frame. We set a lower bound for the speed of quantum information in this frame at 2×104c.},
+	number = {1},
+	urldate = {2025-09-20},
+	journal = {Physics Letters A},
+	author = {Scarani, Valerio and Tittel, Wolfgang and Zbinden, Hugo and Gisin, Nicolas},
+	month = oct,
+	year = {2000},
+	keywords = {Cosmic background radiation, Optical EPR experiments, Preferred frame},
+	pages = {1--7},
+	file = {ScienceDirect Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\NEGPB8SP\\Scarani et al. - 2000 - The speed of quantum information and the preferred frame analysis of experimental data.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\GK4W8PXR\\S0375960100006095.html:text/html},
+}
+
+@article{feinberg_possibility_1967,
+	title = {Possibility of {Faster}-{Than}-{Light} {Particles}},
+	volume = {159},
+	url = {https://link.aps.org/doi/10.1103/PhysRev.159.1089},
+	doi = {10.1103/PhysRev.159.1089},
+	abstract = {We consider the possibility of describing, within the special theory of relativity, particles with spacelike four-momentum, which therefore have velocities greater than that of light in vacuum. The usual objections to such particles are discussed, and they are found to be unconvincing within the framework of relativistic quantum theory. A quantum field theory of noninteracting, spinless, faster-than-light particles is described. The field theory is Lorentz-invariant, but must be quantized with Fermi statistics. The associated particle theory has the property that the particle number is not Lorentz-invariant, and the no-particle state is not Lorentz-invariant either. Nevertheless, the principle of relativity is satisfied. The Lorentz invariance implies a relation between emission and absorption processes, in contradiction to the usual case. Some comments are made about the problem of introducing interactions into the field theory. The limiting velocity is 𝑐, but a limit has two sides.},
+	number = {5},
+	urldate = {2025-09-20},
+	journal = {Physical Review},
+	author = {Feinberg, G.},
+	month = jul,
+	year = {1967},
+	note = {Publisher: American Physical Society},
+	pages = {1089--1105},
+	file = {APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\E24NBLKG\\PhysRev.159.html:text/html;Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\RBPDAPKM\\Feinberg - 1967 - Possibility of Faster-Than-Light Particles.pdf:application/pdf},
+}
+
+
+%%%%%%%%%%%%%%% relativistic random processes %%%%%%%%%%%%%%
+
+@article{Juttner1911,
+  author    = {F. J{"u}ttner},
+  title     = {Das Maxwellsche Gesetz der Geschwindigkeitsverteilung in der Relativtheorie},
+  journal   = {Annalen der Physik},
+  volume    = {339},
+  number    = {5},
+  pages     = {856--882},
+  year      = {1911}
+}
+
+@article{Dudley1965,
+  author    = {R. M. Dudley},
+  title     = {Lorentz-invariant Markov processes in relativistic phase space},
+  journal   = {Arkiv f{"o}r Matematik},
+  volume    = {6},
+  number    = {14},
+  pages     = {241--268},
+  year      = {1965}
+}
+
+@article{Hakim1968,
+  author    = {R. Hakim},
+  title     = {Stochastic processes and relativistic statistical mechanics},
+  journal   = {Journal of Mathematical Physics},
+  volume    = {9},
+  number    = {11},
+  pages     = {1805--1818},
+  year      = {1968}
+}
+
+@book{Synge1957,
+  author    = {J. L. Synge},
+  title     = {The Relativistic Gas},
+  publisher = {North-Holland Publishing},
+  year      = {1957}
+}
+
+@article{Hakim1972,
+  author    = {R. Hakim},
+  title     = {Relativistic stochastic processes},
+  journal   = {Journal of Mathematical Physics},
+  volume    = {13},
+  number    = {3},
+  pages     = {367--394},
+  year      = {1972}
+}
+
+@book{CercignaniKremer2002,
+  author    = {C. Cercignani and G. M. Kremer},
+  title     = {The Relativistic Boltzmann Equation: Theory and Applications},
+  publisher = {Birkh{"a}user},
+  year      = {2002}
+}
+
+@article{Debbasch1997,
+  author    = {F. Debbasch and K. Mallick and J. P. Rivet},
+  title     = {Relativistic Ornstein--Uhlenbeck process},
+  journal   = {Journal of Statistical Physics},
+  volume    = {88},
+  pages     = {945--966},
+  year      = {1997}
+}
+
+@article{DunkelHaenggi2009,
+  author    = {J. Dunkel and P. H{"a}nggi},
+  title     = {Relativistic Brownian motion},
+  journal   = {Physics Reports},
+  volume    = {471},
+  number    = {1},
+  pages     = {1--73},
+  year      = {2009}
+}
+
+@article{Dunkel2007,
+  author    = {J. Dunkel and P. Talkner and P. H{"a}nggi},
+  title     = {Relativistic diffusion processes and random walk models},
+  journal   = {Physical Review D},
+  volume    = {75},
+  number    = {4},
+  pages     = {043001},
+  year      = {2007}
+}
+
+@article{Franchi2007,
+  author    = {J. Franchi and Y. Le Jan},
+  title     = {Relativistic diffusions and Schwarzschild geometry},
+  journal   = {Communications on Pure and Applied Mathematics},
+  volume    = {60},
+  number    = {2},
+  pages     = {187--251},
+  year      = {2007}
+}
+
+@article{Haba2009,
+  author    = {Z. Haba},
+  title     = {Relativistic diffusion with friction on a pseudoriemannian manifold},
+  journal   = {Classical and Quantum Gravity},
+  volume    = {27},
+  number    = {9},
+  pages     = {095021},
+  year      = {2009}
+}
+
+
+@article{nelson_derivation_1966,
+	title = {Derivation of the {Schr}{\textbackslash}"odinger {Equation} from {Newtonian} {Mechanics}},
+	volume = {150},
+	url = {https://link.aps.org/doi/10.1103/PhysRev.150.1079},
+	doi = {10.1103/PhysRev.150.1079},
+	abstract = {We examine the hypothesis that every particle of mass m is subject to a Brownian motion with diffusion coefficient ℏ2m and no friction. The influence of an external field is expressed by means of Newton's law F=ma, as in the Ornstein-Uhlenbeck theory of macroscopic Brownian motion with friction. The hypothesis leads in a natural way to the Schrödinger equation, but the physical interpretation is entirely classical. Particles have continuous trajectories and the wave function is not a complete description of the state. Despite this opposition to quantum mechanics, an examination of the measurement process suggests that, within a limited framework, the two theories are equivalent.},
+	number = {4},
+	urldate = {2023-08-02},
+	journal = {Physical Review},
+	author = {Nelson, Edward},
+	month = oct,
+	year = {1966},
+	note = {Publisher: American Physical Society},
+	pages = {1079--1085},
+	file = {APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\MBHE7RBA\\PhysRev.150.html:text/html;Nelson_1966_Derivation of the Schr-odinger Equation from Newtonian Mechanics.pdf:C\:\\Users\\danyb\\Zotero\\storage\\NIYY6TCF\\Nelson_1966_Derivation of the Schr-odinger Equation from Newtonian Mechanics.pdf:application/pdf},
+}
+
+
+@article{busch_quantum_2003,
+	title = {Quantum {States} and {Generalized} {Observables}: {A} {Simple} {Proof} of {Gleason}'s {Theorem}},
+	volume = {91},
+	shorttitle = {Quantum {States} and {Generalized} {Observables}},
+	url = {https://link.aps.org/doi/10.1103/PhysRevLett.91.120403},
+	doi = {10.1103/PhysRevLett.91.120403},
+	abstract = {A quantum state can be understood in a loose sense as a map that assigns a value to every observable. Formalizing this characterization of states in terms of generalized probability distributions on the set of effects, we obtain a simple proof of the result, analogous to Gleason’s theorem, that any quantum state is given by a density operator. As a corollary we obtain a von Neumann–type argument against noncontextual hidden variables. It follows that on an individual interpretation of quantum mechanics the values of effects are appropriately understood as propensities.},
+	number = {12},
+	urldate = {2025-09-19},
+	journal = {Physical Review Letters},
+	author = {Busch, P.},
+	month = sep,
+	year = {2003},
+	note = {Publisher: American Physical Society},
+	pages = {120403},
+	file = {APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\GEKFSHFB\\PhysRevLett.91.html:text/html;Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\CNWB83I9\\Busch - 2003 - Quantum States and Generalized Observables A Simple Proof of Gleason's Theorem.pdf:application/pdf},
+}
+
+@article{gleason_measures_nodate,
+	title = {Measures on the {Closed} {Subspaces} of a {Hilbert} {Space}},
+	author = {Gleason, Andrew},
+	journal = {Journal of Mathematics and Mechanics},
+	volume = {6},
+	pages = {885},
+	year = {2003},
+file = {PDF:C\:\\Users\\danyb\\Zotero\\storage\\QGVD9I2E\\Gleason - Measures on the Closed Subspaces of a Hilbert Space.pdf:application/pdf},
+}
+
+
+@book{teufel_bohmian_2009,
+	address = {Berlin, Heidelberg},
+	title = {Bohmian {Mechanics}: {The} {Physics} and {Mathematics} of {Quantum} {Theory}},
+	copyright = {https://www.springernature.com/gp/researchers/text-and-data-mining},
+	isbn = {978-3-540-89343-1 978-3-540-89344-8},
+	shorttitle = {Bohmian {Mechanics}},
+	url = {https://link.springer.com/10.1007/b99978},
+	urldate = {2025-09-20},
+	publisher = {Springer},
+	author = {Teufel, Stefan and D"urr, Detlef},
+	year = {2009},
+	doi = {10.1007/b99978},
+	keywords = {Bohmian mechanics, Foundations of quantum mechanics, Mathematical physics of quantum mechanics, Probability in physics, Quantum mechanics, quantum theory, scattering, scattering theory, Statistical mechanics},
+}
+
+
+@book{nelson_quantum_1985,
+	title = {Quantum {Fluctuations}},
+	url = {https://ieeexplore.ieee.org/document/9452627},
+	abstract = {{\textless}p{\textgreater}Stochastic mechanics is a description of quantum phenomena in classical probabilistic terms. This work contains a detailed account of the kinematics of diffusion processes, including diffusions on curved manifolds which are necessary for the treatment of spin in stochastic mechanics. The dynamical equations of the theory are derived from a variational principle, and interference, the asymptotics of free motion, bound states, statistics, and spin are described in classical terms.{\textless}br{\textgreater}{\textless}br{\textgreater}{\textless}br{\textgreater} In addition to developing the formal mathematical aspects of the theory, the book contains discussion of possible physical causes of quantum fluctuations in terms of an interaction with a background field. The author gives a critical analysis of stochastic mechanics as a candidate for a realistic theory of physical processes, discussing measurement, local causality in the sense of Bell, and the failure of the theory in its present form to satisfy locality.{\textless}/br{\textgreater}{\textless}/br{\textgreater}{\textless}/br{\textgreater}{\textless}/p{\textgreater}},
+	urldate = {2025-10-21},
+	publisher = {Princeton University Press},
+	author = {Nelson, Edward},
+	year = {1985},
+	file = {Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\X7SAHI8F\\9452627.html:text/html},
+}
+
+
+@article{PhysRevD.31.2521,
+  title = {Compatibility between the Brownian metric and the kinetic metric in Nelson stochastic quantization},
+  author = {Dohrn, Daniela and Guerra, Francesco},
+  journal = {Phys. Rev. D},
+  volume = {31},
+  issue = {10},
+  pages = {2521--2524},
+  numpages = {0},
+  year = {1985},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.31.2521},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.31.2521}
+}
+
+@misc{fritsche_stochastic_2009,
+	title = {Stochastic {Foundation} of {Quantum} {Mechanics} and the {Origin} of {Particle} {Spin}},
+	url = {http://arxiv.org/abs/0912.3442},
+	doi = {10.48550/arXiv.0912.3442},
+	abstract = {The present contribution is based on the assumption that the probabilistic character of quantum mechanics does not originate from uncertainties caused by the process of measurement or observation, but rather reflects the presence of objectively existing vacuum fluctuations whose action on massive particles is calibrated by Planck's constant and effects an additional irregular motion. We describe a one-particle system by introducing two equally large sub-ensembles for each of which one obtains an equation of motion that has the form of a Navier-Stokes- or ''anti''-Navier-Stokes-type equation, respectively. By averaging over the total ensemble one obtains a new equation of motion which can be converted into the time-dependent Schroedinger equation. The concept allows the inclusion of electromagnetic fields and can be extended to interacting N-particle systems. We analyze the problem of how an experimental setup can consistently be decomposed into the quantum system under study and the residual quantum system ''apparatus''. The irregular extra motion of the particle under study allows a decomposition of the associated ensemble into two sub-ensembles the members of which perform, respectively, a right-handed or left-handed irregular circular motion about a given axis which becomes physically relevant in the presence of a magnetic field. We demonstrate that this orientation-decomposed ''Zitterbewegung'' behaves - in accordance with Schroedinger's original idea - as a spin-type angular momentum which appears in addition to a possible orbital angular moment of the particle. We derive the non-relativistic time-dependent Pauli equation and propose a theory of the Stern-Gerlach experiment. The Dirac equation can be derived similarly.},
+	urldate = {2025-10-21},
+	publisher = {arXiv},
+	author = {Fritsche, L. and Haugk, M.},
+	month = dec,
+	year = {2009},
+	note = {arXiv:0912.3442 [physics]},
+	keywords = {Physics - General Physics, Quantum Physics},
+	annote = {Comment: 48 pages, 4 figures},
+	file = {Preprint PDF:C\:\\Users\\danyb\\Zotero\\storage\\B46AHSUN\\Fritsche and Haugk - 2009 - Stochastic Foundation of Quantum Mechanics and the Origin of Particle Spin.pdf:application/pdf;Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\35UCZIAN\\0912.html:text/html},
+}
+
+
+@article{pavon_stochastic_2001,
+	title = {On the stochastic mechanics of the free relativistic particle},
+	volume = {42},
+	issn = {0022-2488},
+	url = {https://doi.org/10.1063/1.1401135},
+	doi = {10.1063/1.1401135},
+	abstract = {Given a positive energy solution of the Klein–Gordon equation, the motion of the free, spinless, relativistic particle is described in a fixed Lorentz frame by a Markov diffusion process with nonconstant diffusion coefficient. Proper time is an increasing stochastic process and we derive a probabilistic generalization of the equation (dτ)2=−(1/c2)dXν dXν. A random time-change transformation provides the bridge between the t and the τ domain. In the τ domain, we obtain an M4-valued Markov process with singular and constant diffusion coefficient. The square modulus of the Klein–Gordon solution is an invariant, nonintegrable density for this Markov process. It satisfies a relativistically covariant continuity equation.},
+	number = {10},
+	urldate = {2025-10-21},
+	journal = {Journal of Mathematical Physics},
+	author = {Pavon, Michele},
+	month = oct,
+	year = {2001},
+	pages = {4846--4856},
+	file = {Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\AU6KBMQH\\Pavon - 2001 - On the stochastic mechanics of the free relativistic particle.pdf:application/pdf;Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\B89EAJ8I\\1.html:text/html},
+}
+
+@article{PhysRevD.32.1375,
+  title = {Realistic physical origin of the quantum observable operator algebra in the frame of the causal stochastic interpretation of quantum mechanics: The relativistic spin-zero case},
+  author = {Cufaro-Petroni, N. and Dewdney, C. and Holland, P. and Kyprianidis, T. and Vigier, J. P.},
+  journal = {Phys. Rev. D},
+  volume = {32},
+  issue = {6},
+  pages = {1375--1383},
+  numpages = {0},
+  year = {1985},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.32.1375},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.32.1375}
+}
+
+@article{PhysRevD.27.2912,
+  title = {Stochastic quantization of the vector-meson field},
+  author = {De Siena, Silvio and Guerra, Francesco and Ruggiero, Patrizia},
+  journal = {Phys. Rev. D},
+  volume = {27},
+  issue = {12},
+  pages = {2912--2915},
+  numpages = {0},
+  year = {1983},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.27.2912},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.27.2912}
+}
+
+
+@article{wallstrom_derivation_1989,
+	title = {{ON} {THE} {DERIVATION} {OF} {THE} {SCHRODINGER} {EQUATION} {FROM} {STOCHASTIC} {MECHANICS}},
+	volume = {2},
+	abstract = {It is shown that the existing formulations of stochastic mechanics are not equivalent to the SchrSdinger equation, as had previously been believed. It is argued that this is a reflection of fundamental inadequacies in the physical foundations of stochastic mechanics.},
+	journal = {Foundations of Physics Letters},
+	author = {Wallstrom, Timothy C},
+	year = {1989},
+	pages = {113},
+	file = {Wallstrom - ON THE DERIVATION OF THE SCHRODINGER EQUATION FROM.pdf:C\:\\Users\\danyb\\Zotero\\storage\\U29N3GPF\\Wallstrom - ON THE DERIVATION OF THE SCHRODINGER EQUATION FROM.pdf:application/pdf},
+}
+
+
+@article{guerra_structural_1981,
+	title = {Structural aspects of stochastic mechanics and stochastic field theory},
+	volume = {77},
+	issn = {0370-1573},
+	url = {https://www.sciencedirect.com/science/article/pii/0370157381900788},
+	doi = {10.1016/0370-1573(81)90078-8},
+	number = {3},
+	urldate = {2025-10-21},
+	journal = {Physics Reports},
+	author = {Guerra, Francesco},
+	month = nov,
+	year = {1981},
+	pages = {263--312},
+	file = {ScienceDirect Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\3P7YCGCH\\Guerra - 1981 - Structural aspects of stochastic mechanics and stochastic field theory.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\AIKPH7VB\\0370157381900788.html:text/html},
+}
+
+@article{PhysRevX.13.041040,
+  title = {A Postquantum Theory of Classical Gravity?},
+  author = {Oppenheim, Jonathan},
+  journal = {Phys. Rev. X},
+  volume = {13},
+  issue = {4},
+  pages = {041040},
+  numpages = {37},
+  year = {2023},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevX.13.041040},
+  url = {https://link.aps.org/doi/10.1103/PhysRevX.13.041040}
+}
+
+
+@article{hensen_loophole-free_2015,
+	title = {Loophole-free {Bell} inequality violation using electron spins separated by 1.3 kilometres},
+	volume = {526},
+	copyright = {2015 Nature Publishing Group},
+	issn = {1476-4687},
+	url = {https://www.nature.com/articles/nature15759},
+	doi = {10.1038/nature15759},
+	abstract = {{\textless}p{\textgreater}The celebrated Bell inequality, a theorem published by John Bell in 1964, has long served as a basis for experimentally testing whether nature satisfies local realism. All experiments conducted to date have implied rejection of local-realist hypotheses. But because of experimental limitations all those tests suffered from loopholes  either the locality or the detection loophole. Here, Ronald Hanson and colleagues perform a Bell test that closes these loopholes. Their results are consistent with a violation of the inequality, although the authors reject local-realist hypotheses by two standard deviations only. The experimental setup allows for improvements in the statistics that may consolidate the result. In addition to its fundamental importance, a loophole-free Bell test is an important building block in quantum information processing.{\textless}/p{\textgreater}},
+	number = {7575},
+	urldate = {2018-02-05},
+	journal = {Nature},
+	author = {Hensen, B. and Bernien, H. and DrÃ©au, A. E. and Reiserer, A. and Kalb, N. and Blok, M. S. and Ruitenberg, J. and Vermeulen, R. F. L. and Schouten, R. N. and AbellÃ¡n, C. and Amaya, W. and Pruneri, V. and Mitchell, M. W. and Markham, M. and Twitchen, D. J. and Elkouss, D. and Wehner, S. and Taminiau, T. H. and Hanson, R.},
+	month = oct,
+	year = {2015},
+	pages = {682},
+	file = {Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\TAAZHU77\\Hensen et al. - 2015 - Loophole-free Bell inequality violation using elec.pdf:application/pdf;Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\8PJF66HY\\nature15759.html:text/html},
 }
 
 %%%%%%%%%%%%% new entries QMetro book %%%%%%%%%%%%%%%%%%%
