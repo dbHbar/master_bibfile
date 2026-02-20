@@ -522,12 +522,6 @@ URL = {https://doi.org/10.1117/12.621353}
   year = {1954}
 }
 
-@BOOK{BonfiglioliFulci,
-	AUTHOR       = {Bonfiglioli, A. and Fulci, R.},
-        PUBLISHER = {Springer},
-	TITLE        = {{Topics in Noncommutative Algebra: The Theorem of Campbell, Baker, Hausdorff and Dynkin}},
-	YEAR         = {2012}
-}
 
 @BOOK{SakuraiNapolitano,
 	AUTHOR       = {Sakurai, J. J. and Napolitano, J.},
@@ -19741,12 +19735,6 @@ publisher = {Cambridge University Press, Cambridge, UK},
 year = {2001}
 }
 
-@book{MandelWolf,
-author={Leonard Mandel and Emil Wolf}, 
-title={Optical Coheence and Quantum Optics},
-publisher = {Cambridge University Press, Cambridge, UK}, 
-year = {1995}
-}
 
 @Article{SRZ16,
   author  = {Smaczy{\'n}ski, M. and Roga, W. and {\.Z}yczkowski, K.},
@@ -23903,6 +23891,247 @@ Based on their mathematical properties, stochastic processes can be grouped into
   url = {https://link.aps.org/doi/10.1103/PhysRev.36.410}
 }
 
+%rotational coherence
+@article{PhysRevA.94.052109,
+  title = {Decoherence of rotational degrees of freedom},
+  author = {Zhong, Changchun and Robicheaux, F.},
+  journal = {Phys. Rev. A},
+  volume = {94},
+  issue = {5},
+  pages = {052109},
+  numpages = {7},
+  year = {2016},
+  month = {Nov},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.94.052109},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.94.052109}
+}
+
+
+@article{prager_rotational_1997,
+	title = {Rotational tunneling and neutron spectroscopy: {A} compilation},
+	volume = {97},
+	shorttitle = {Rotational tunneling and neutron spectroscopy},
+	url = {http://pubs.acs.org/doi/pdf/10.1021/cr9500848},
+	number = {8},
+	urldate = {2015-01-23},
+	journal = {Chemical reviews},
+	author = {Prager, M. and Heidemann, A.},
+	year = {1997},
+	pages = {2933--2966},
+	file = {cr9500848.pdf:C\:\\Users\\danyb\\Zotero\\storage\\THA2IK6P\\cr9500848.pdf:application/pdf},
+}
+
+@article{martinetz_quantum_2020,
+	title = {Quantum electromechanics with levitated nanoparticles},
+	volume = {6},
+	issn = {2056-6387},
+	url = {https://www.nature.com/articles/s41534-020-00333-7},
+	doi = {10.1038/s41534-020-00333-7},
+	abstract = {Abstract
+            Preparing and observing quantum states of nanoscale particles is a challenging task with great relevance for quantum technologies and tests of fundamental physics. In contrast to atomic systems with discrete transitions, nanoparticles exhibit a practically continuous absorption spectrum and thus their quantum dynamics cannot be easily manipulated. Here, we demonstrate that charged nanoscale dielectrics can be artificially endowed with a discrete level structure by coherently interfacing their rotational and translational motion with a superconducting qubit. We propose a pulsed scheme for the generation and read-out of motional quantum superpositions and entanglement between several levitated nanoparticles, providing an all-electric platform for networked hybrid quantum devices.},
+	number = {1},
+	urldate = {2023-02-19},
+	journal = {npj Quantum Information},
+	author = {Martinetz, Lukas and Hornberger, Klaus and Millen, James and Kim, M. S. and Stickler, Benjamin A.},
+	month = dec,
+	year = {2020},
+	pages = {101},
+	file = {Martinetz et al. - 2020 - Quantum electromechanics with levitated nanopartic.pdf:C\:\\Users\\danyb\\Zotero\\storage\\PDUUQIK6\\Martinetz et al. - 2020 - Quantum electromechanics with levitated nanopartic.pdf:application/pdf},
+}
+
+@article{gonzalez-ballestero_levitodynamics_2021,
+	title = {Levitodynamics: {Levitation} and control of microscopic objects in vacuum},
+	volume = {374},
+	issn = {0036-8075, 1095-9203},
+	shorttitle = {Levitodynamics},
+	url = {https://www.science.org/doi/10.1126/science.abg3027},
+	doi = {10.1126/science.abg3027},
+	number = {6564},
+	urldate = {2023-02-19},
+	journal = {Science},
+	author = {Gonzalez-Ballestero, C. and Aspelmeyer, M. and Novotny, L. and Quidant, R. and Romero-Isart, O.},
+	month = oct,
+	year = {2021},
+	pages = {eabg3027},
+	file = {Gonzalez-Ballestero et al. - 2021 - Levitodynamics Levitation and control of microsco.pdf:C\:\\Users\\danyb\\Zotero\\storage\\MU5AGLYV\\Gonzalez-Ballestero et al. - 2021 - Levitodynamics Levitation and control of microsco.pdf:application/pdf},
+}
+
+@article{vinante_levitated_2022,
+	title = {Levitated {Micromagnets} in {Superconducting} {Traps}: {A} {New} {Platform} for {Tabletop} {Fundamental} {Physics} {Experiments}},
+	volume = {24},
+	issn = {1099-4300},
+	shorttitle = {Levitated {Micromagnets} in {Superconducting} {Traps}},
+	url = {https://www.mdpi.com/1099-4300/24/11/1642},
+	doi = {10.3390/e24111642},
+	abstract = {Magnetically levitated microparticles have been proposed as mechanical sensors with extreme sensitivity. In particular, micromagnets levitated above a superconductor can achieve very low levels of dissipation and thermal noise. In this paper, we review recent initial experiments and discuss the potential for using these systems as sensors of magnetic ﬁelds and rotational motion, as well as possible applications to fundamental physics.},
+	number = {11},
+	urldate = {2023-02-19},
+	journal = {Entropy},
+	author = {Vinante, Andrea and Timberlake, Chris and Ulbricht, Hendrik},
+	month = nov,
+	year = {2022},
+	keywords = {QuCom},
+	pages = {1642},
+	file = {Vinante et al. - 2022 - Levitated Micromagnets in Superconducting Traps A.pdf:C\:\\Users\\danyb\\Zotero\\storage\\MFN3A899\\Vinante et al. - 2022 - Levitated Micromagnets in Superconducting Traps A.pdf:application/pdf},
+}
+
+@article{pedernales_decoherence-free_2020,
+	title = {Decoherence-{Free} {Rotational} {Degrees} of {Freedom} for {Quantum} {Applications}},
+	volume = {125},
+	url = {https://link.aps.org/doi/10.1103/PhysRevLett.125.090501},
+	doi = {10.1103/PhysRevLett.125.090501},
+	abstract = {We employ spherical t-designs for the systematic construction of solids whose rotational degrees of freedom can be made robust to decoherence due to external fluctuating fields while simultaneously retaining their sensitivity to signals of interest. Specifically, the ratio of signal phase accumulation rate from a nearby source to the decoherence rate caused by fluctuating fields from more distant sources can be incremented to any desired level by using increasingly complex shapes. This allows for the generation of long-lived macroscopic quantum superpositions of rotational degrees of freedom and the robust generation of entanglement between two or more such solids with applications in robust quantum sensing and precision metrology as well as quantum registers.},
+	number = {9},
+	urldate = {2023-03-09},
+	journal = {Physical Review Letters},
+	publisher = {American Physical Society},
+	author = {Pedernales, J. S. and Cosco, F. and Plenio, M. B.},
+	month = aug,
+	year = {2020},
+	pages = {090501},
+	file = {APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\2T8HHJFK\\PhysRevLett.125.html:text/html;Pedernales et al_2020_Decoherence-Free Rotational Degrees of Freedom for Quantum Applications.pdf:C\:\\Users\\danyb\\Zotero\\storage\\M42WWR5K\\Pedernales et al_2020_Decoherence-Free Rotational Degrees of Freedom for Quantum Applications.pdf:application/pdf},
+}
+
+@article{carlesso_perturbative_2021,
+	title = {Perturbative algorithm for rotational decoherence},
+	volume = {103},
+	url = {https://link.aps.org/doi/10.1103/PhysRevA.103.032220},
+	doi = {10.1103/PhysRevA.103.032220},
+	abstract = {Recent advances in levitated optomechanics provide new perspectives for the use of rotational degrees of freedom for the development of quantum technologies as well as for testing fundamental physics. As for the translational case, their use, especially in the quantum regime, is limited by environmental noises, the characterization of which is fundamental in order to assess, control, and minimize their effect, in particular decoherence. Here, we present a general perturbative approach to compute decoherence for a quantum system in a superposition of its rotational degrees of freedom. The specific cases of the dipole-dipole and quadrupole-quadrupole interactions are solved explicitly, and we show that the rotational degrees of freedom decohere on a time scale that can be longer than the translational one.},
+	number = {3},
+	urldate = {2025-05-15},
+	journal = {Physical Review A},
+	publisher = {American Physical Society},
+	author = {Carlesso, Matteo and Naeij, Hamid Reza and Bassi, Angelo},
+	month = mar,
+	year = {2021},
+	pages = {032220},
+	file = {APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\SW7WW4ZY\\PhysRevA.103.html:text/html;Carlesso et al_2021_Perturbative algorithm for rotational decoherence.pdf:C\:\\Users\\danyb\\Zotero\\storage\\35TW4B9Q\\Carlesso et al_2021_Perturbative algorithm for rotational decoherence.pdf:application/pdf},
+}
+
+@article{stickler_quantum_2021,
+	title = {Quantum rotations of nanoparticles},
+	volume = {3},
+	copyright = {2021 Springer Nature Limited},
+	issn = {2522-5820},
+	url = {https://www.nature.com/articles/s42254-021-00335-0},
+	doi = {10.1038/s42254-021-00335-0},
+	abstract = {Rotations of microscale rigid bodies exhibit pronounced quantum phenomena that do not exist for their centre-of-mass motion. By levitating nanoparticles in ultra-high vacuum, researchers are developing a promising platform for observing and exploiting these quantum effects in an unexplored mass and size regime. Recent experimental and theoretical breakthroughs demonstrate exquisite control of nanoscale rotations, setting the stage for the first tabletop tests of rotational superpositions and for the next generation of ultra-precise torque sensors. Here, we review the experimental state of the art and discuss promising routes towards quantum rotations.},
+	number = {8},
+	urldate = {2025-11-07},
+	journal = {Nature Reviews Physics},
+	publisher = {Nature Publishing Group},
+	author = {Stickler, Benjamin A. and Hornberger, Klaus and Kim, M. S.},
+	month = aug,
+	year = {2021},
+	keywords = {Quantum optics, Quantum mechanics, Nanoscale devices},
+	pages = {589--597},
+	file = {Submitted Version:C\:\\Users\\danyb\\Zotero\\storage\\KMI3S9EX\\Stickler et al. - 2021 - Quantum rotations of nanoparticles.pdf:application/pdf},
+}
+
+@article{glikin_probing_2025,
+	title = {Probing rotational decoherence with a trapped-ion planar rotor},
+	volume = {134},
+	issn = {0031-9007, 1079-7114},
+	url = {http://arxiv.org/abs/2310.13293},
+	doi = {10.1103/PhysRevLett.134.033601},
+	abstract = {The quantum rotor is one of the simplest model systems in quantum mechanics, but only in recent years has theoretical work revealed general fundamental scaling laws for its decoherence. For example, a superposition of orientations decoheres at a rate proportional to the sine squared of the angle between them. Here we observe scaling laws for rotational decoherence dynamics for the first time, using a 4-micrometer diameter planar rotor composed of two Paul-trapped ions. We prepare the rotational motion of the ion crystal into superpositions of angular momentum with well-defined differences ranging from 1-3 \${\textbackslash}hbar\$, and measure the rate of decoherence. We also tune the system-environment interaction strength by introducing resonant electric field noise. The observed scaling relationships for decoherence are in excellent agreement with recent theoretical work, and are directly relevant to the growing development of rotor-based quantum applications.},
+	number = {3},
+	urldate = {2026-01-20},
+	journal = {Physical Review Letters},
+	author = {Glikin, Neil and Stickler, Benjamin A. and Tollefsen, Ryan and Mouradian, Sara and Yadav, Neha and Urban, Erik and Hornberger, Klaus and Haeffner, Hartmut},
+	month = jan,
+	year = {2025},
+	note = {arXiv:2310.13293 [quant-ph]},
+	keywords = {Physics - Atomic Physics, Quantum Physics},
+	pages = {033601},
+	annote = {Comment: 7 pages + supplementary information, 3 + 4 figures},
+	file = {PDF:C\:\\Users\\danyb\\Zotero\\storage\\A6GKJ3UL\\Glikin et al. - 2025 - Probing rotational decoherence with a trapped-ion planar rotor.pdf:application/pdf},
+}
+
+@article{zhong_decoherence_2016,
+	title = {Decoherence of rotational degrees of freedom},
+	volume = {94},
+	url = {https://link.aps.org/doi/10.1103/PhysRevA.94.052109},
+	doi = {10.1103/PhysRevA.94.052109},
+	abstract = {The mechanism of decoherence for a mesoscopic quantum system with rotational degrees of freedom is studied. From a simple model of elastic scattering, we show that the nondiagonal density-matrix elements of the system exponentially decay. The decay rate depends on the difference of scattering amplitudes for different rotational configurations, leading to the gradual loss of quantum coherence between the pointer states in the orientational space. For a dielectric ellipsoid immersed in a photon-gas environment (assuming no absorption), the decay rate is found to be proportional to the seventh power of the temperature. For an ellipsoidal object interacting with massive particles, the decay rate is proportional to the 5/2 power of the temperature. Both are different from the case of translational decoherence induced by the same environment scattering. For photon scattering, the coherence time in the rotational degrees of freedom is shown to be much shorter than that in the translational degrees of freedom.},
+	number = {5},
+	urldate = {2026-01-28},
+	journal = {Physical Review A},
+	publisher = {American Physical Society},
+	author = {Zhong, Changchun and Robicheaux, F.},
+	month = nov,
+	year = {2016},
+	pages = {052109},
+	file = {APS Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\NSUUCPMW\\PhysRevA.94.html:text/html;Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\RLAPICIF\\Zhong and Robicheaux - 2016 - Decoherence of rotational degrees of freedom.pdf:application/pdf},
+}
+
+
+@article{braun_exact_2004,
+	title = {Exact activation energy of magnetic single domain particles},
+	volume = {283},
+	number = {1},
+	journal = {Journal of Magnetism and Magnetic Materials},
+	author = {Braun, D.},
+	year = {2004},
+	pages = {1--7},
+	file = {Braun_JMMM283_1_2004.pdf:C\:\\Users\\danyb\\Zotero\\storage\\IG37WHRP\\Braun_JMMM283_1_2004.pdf:application/pdf},
+}
+
+
+@incollection{wernsdorfer_classical_2006,
+	address = {Boston, MA},
+	title = {Classical and {Quantum} {Magnetization} {Reversal} {Studied} in {Nanometer}-{Sized} {Particles} and {Clusters}},
+	isbn = {978-1-4020-7984-9},
+	url = {https://doi.org/10.1007/1-4020-7984-2_3},
+	doi = {10.1007/1-4020-7984-2_3},
+	abstract = {Nanometer-sized magnetic particles have generated continuous interest since the late 1940s because the study of their properties has proved to be scientifically and technologically very challenging. In particular, it was recognized that the ferromagnetic state, with a given orientation of the particle moment, has a remanent magnetization if the particle is small enough. This was the starting point of huge permanent magnets and magnetic recording industries. However, despite intense activity during the last few decades, the difficulties in making nanoparticles of good enough quality have slowed the advancement of this field. As a consequence, for 50 years, these applications concentrated above and then near the micrometer scale. In the last decade, this has no longer been the case because of the emergence of new fabrication techniques that have led to the possibility of making small objects with the required structural and chemical qualities. In order to study these objects, new techniques such as magneticforce microscopy, magnetometry based on micro-Hall probes or micro-SQUIDs(superconducting quantum interference device) were developed. This led to a new understanding of the magnetic behavior of nanoparticles, which is now very important for the development of new fundamental theories of magnetism and in modeling new magnetic materials for permanent magnets or high density recording.},
+	urldate = {2026-01-30},
+	booktitle = {Handbook of {Advanced} {Magnetic} {Materials}},
+	publisher = {Springer US},
+	author = {Wernsdorfer, Wolfgang},
+	editor = {Liu, Yi and Sellmyer, David J. and Shindo, Daisuke},
+	year = {2006},
+	keywords = {Anisotropy Energy, Domain Wall, Easy Axis, Magnetization Reversal, Quantum Tunneling},
+	pages = {77--127},
+	file = {Submitted Version:C\:\\Users\\danyb\\Zotero\\storage\\N388HQUX\\Wernsdorfer - 2006 - Classical and Quantum Magnetization Reversal Studied in Nanometer-Sized Particles and Clusters.pdf:application/pdf},
+}
+
+
+@article{wernsdorfer_exchange-biased_2002,
+	title = {Exchange-biased quantum tunnelling in a supramolecular dimer of single-molecule magnets},
+	volume = {416},
+	issn = {0028-0836},
+	url = {http://dx.doi.org/10.1038/416406a},
+	doi = {10.1038/416406a},
+	number = {6879},
+	urldate = {2010-01-01},
+	journal = {Nature},
+	author = {Wernsdorfer, Wolfgang and Aliaga-Alcalde, Nuria and Hendrickson, David N. and Christou, George},
+	month = mar,
+	year = {2002},
+	pages = {406--409},
+	file = {Nature Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\CQ3W8ST6\\416406a.html:text/html},
+}
+
+@article{barbara_quantum_1997,
+	title = {Quantum tunneling effect in magnetic particles},
+	volume = {2},
+	issn = {1359-0286},
+	url = {https://www.sciencedirect.com/science/article/pii/S1359028697800691},
+	doi = {10.1016/S1359-0286(97)80069-1},
+	abstract = {During the past five yeas, researchers have achieved advances in both sample elaboration and measurement techniques in an effort to witness macroscopic quantum tunneling of magnetization. Important advances include experimental results of relaxation measurements, single particle measurements, and domain wall junction, quantum coherence and quantum resonance measurements. Quantum resonance measurements have shown unambiguously quantum tunneling of magnetization at a scale of one nanometer.},
+	number = {2},
+	urldate = {2025-05-06},
+	journal = {Current Opinion in Solid State and Materials Science},
+	author = {Barbara, Bernard and Wernsdorfer, Wolfgang},
+	month = apr,
+	year = {1997},
+	pages = {220--225},
+	file = {Barbara_Wernsdorfer_1997_Quantum tunneling effect in magnetic particles.pdf:C\:\\Users\\danyb\\Zotero\\storage\\RKS4ZYUJ\\Barbara_Wernsdorfer_1997_Quantum tunneling effect in magnetic particles.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\SNBYZTNL\\S1359028697800691.html:text/html},
+}
+
 %%%%%%%%%%%%% new entries QMetro book %%%%%%%%%%%%%%%%%%%
 @article{kaluzny1983observation,
   title={{Observation of Self-Induced Rabi Oscillations in Two-Level Atoms Excited Inside a Resonant Cavity: The Ringing Regime of Superradiance}},
@@ -23954,24 +24183,6 @@ Based on their mathematical properties, stochastic processes can be grouped into
 	file = {and_and_2014_Quantum Fisher Information for Density Matrices with Arbitrary Ranks.pdf:C\:\\Users\\dany_\\Zotero\\storage\\3L9DMH7J\\and_and_2014_Quantum Fisher Information for Density Matrices with Arbitrary Ranks.pdf:application/pdf},
 }
 
-
-@article{liu_quantum_2020,
-	title = {Quantum {Fisher} information matrix and multiparameter estimation},
-	volume = {53},
-	issn = {1751-8113, 1751-8121},
-	url = {https://iopscience.iop.org/article/10.1088/1751-8121/ab5d4d},
-	doi = {10.1088/1751-8121/ab5d4d},
-	abstract = {Quantum Fisher information matrix (QFIM) is a core concept in theoretical quantum metrology due to the significant importance of quantum Cramér–Rao bound in quantum parameter estimation. However, studies in recent years have revealed wide connections between QFIM and other aspects of quantum mechanics, including quantum thermodynamics, quantum phase transition, entanglement witness, quantum speed limit and non-Markovianity. These connections indicate that QFIM is more than a concept in quantum metrology, but rather a fundamental quantity in quantum mechanics. In this paper, we summarize the properties and existing calculation techniques of QFIM for various cases, and review the development of QFIM in some aspects of quantum mechanics apart from quantum metrology. On the other hand, as the main application of QFIM, the second part of this paper reviews the quantum multiparameter Cramér–Rao bound, its attainability condition and the associated optimal measurements. Moreover, recent developments in a few typical scenarios of quantum multiparameter estimation and the quantum advantages are also thoroughly discussed in this part.},
-	number = {2},
-	urldate = {2020-03-17},
-	journal = {Journal of Physics A: Mathematical and Theoretical},
-	author = {Liu, Jing and Yuan, Haidong and Lu, Xiao-Ming and Wang, Xiaoguang},
-	month = jan,
-	year = {2020},
-	keywords = {QMetro book},
-	pages = {023001},
-	file = {Liu et al. - 2020 - Quantum Fisher information matrix and multiparamet.PDF:C\:\\Users\\dany_\\Zotero\\storage\\WUJNZQZ6\\Liu et al. - 2020 - Quantum Fisher information matrix and multiparamet.PDF:application/pdf},
-}
 
 
 @article{schrodinger_probability_1936,
@@ -24059,20 +24270,6 @@ Based on their mathematical properties, stochastic processes can be grouped into
 }
 
 
-@misc{duan_faster_2023,
-	title = {Faster {Matrix} {Multiplication} via {Asymmetric} {Hashing}},
-	url = {http://arxiv.org/abs/2210.10173},
-	doi = {10.48550/arXiv.2210.10173},
-	abstract = {Fast matrix multiplication is one of the most fundamental problems in algorithm research. The exponent of the optimal time complexity of matrix multiplication is usually denoted by \${\textbackslash}omega\$. This paper discusses new ideas for improving the laser method for fast matrix multiplication. We observe that the analysis of higher powers of the Coppersmith-Winograd tensor [Coppersmith \& Winograd 1990] incurs a "combination loss", and we partially compensate for it using an asymmetric version of CW's hashing method. By analyzing the eighth power of the CW tensor, we give a new bound of \${\textbackslash}omega{\textless}2.371866\$, which improves the previous best bound of \${\textbackslash}omega{\textless}2.372860\$ [Alman \& Vassilevska Williams 2020]. Our result breaks the lower bound of \$2.3725\$ in [Ambainis, Filmus \& Le Gall 2015] because of the new method for analyzing component (constituent) tensors.},
-	urldate = {2023-04-28},
-	publisher = {arXiv},
-	author = {Duan, Ran and Wu, Hongxun and Zhou, Renfei},
-	month = apr,
-	year = {2023},
-	note = {arXiv:2210.10173 [cs]},
-	keywords = {Computer Science - Data Structures and Algorithms},
-	file = {arXiv.org Snapshot:C\:\\Users\\dany_\\Zotero\\storage\\3U337TXI\\2210.html:text/html;Duan et al_2023_Faster Matrix Multiplication via Asymmetric Hashing.pdf:C\:\\Users\\dany_\\Zotero\\storage\\YAGNYJEI\\Duan et al_2023_Faster Matrix Multiplication via Asymmetric Hashing.pdf:application/pdf},
-}
 
 @article{Kucsko18,
   title = {Critical Thermalization of a Disordered Dipolar Spin System in Diamond},
@@ -25611,368 +25808,6 @@ Publisher: Nature Publishing Group},
 
 
 
-@article{Papadopoulos2024,
-  title = {Reductive quantum phase estimation},
-  author = {Papadopoulos, Nicholas J. C. and Reilly, Jarrod T. and Wilson, John Drew and Holland, Murray J.},
-  journal = {Phys. Rev. Res.},
-  volume = {6},
-  issue = {3},
-  pages = {033051},
-  numpages = {11},
-  year = {2024},
-  month = {Jul},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevResearch.6.033051},
-  url = {https://link.aps.org/doi/10.1103/PhysRevResearch.6.033051}
-}
-
-
-@article{van2021efficient,
-  title={Efficient Bayesian phase estimation using mixed priors},
-  author={van den Berg, Ewout},
-  journal={Quantum},
-  volume={5},
-  pages={469},
-  year={2021},
-  publisher={Verein zur F{\"o}rderung des Open Access Publizierens in den Quantenwissenschaften}
-}
-
-@article{olivares2009bayesian,
-  title={Bayesian estimation in homodyne interferometry},
-  author={Olivares, Stefano and Paris, Matteo GA},
-  journal={Journal of Physics B: Atomic, Molecular and Optical Physics},
-  volume={42},
-  number={5},
-  pages={055506},
-  year={2009},
-  publisher={IOP Publishing}
-}
-
-
-@article{Smith2024,
-  title = {Adaptive Bayesian quantum algorithm for phase estimation},
-  author = {Smith, Joseph G. and Barnes, Crispin H. W. and Arvidsson-Shukur, David R. M.},
-  journal = {Phys. Rev. A},
-  volume = {109},
-  issue = {4},
-  pages = {042412},
-  numpages = {8},
-  year = {2024},
-  month = {Apr},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.109.042412},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.109.042412}
-}
-
-@article{Smith2022,
-  title = {Iterative quantum-phase-estimation protocol for shallow circuits},
-  author = {Smith, Joseph G. and Barnes, Crispin H. W. and Arvidsson-Shukur, David R. M.},
-  journal = {Phys. Rev. A},
-  volume = {106},
-  issue = {6},
-  pages = {062615},
-  numpages = {7},
-  year = {2022},
-  month = {Dec},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.106.062615},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.106.062615}
-}
-
-@article{WiebeGranade2016,
-  title = {Efficient Bayesian Phase Estimation},
-  author = {Wiebe, Nathan and Granade, Chris},
-  journal = {Phys. Rev. Lett.},
-  volume = {117},
-  issue = {1},
-  pages = {010503},
-  numpages = {6},
-  year = {2016},
-  month = {Jun},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevLett.117.010503},
-  url = {https://link.aps.org/doi/10.1103/PhysRevLett.117.010503}
-}
-
-@article{Li2024,
-  title = {Iterative method to improve the precision of the quantum-phase-estimation algorithm},
-  author = {Li, Junxu},
-  journal = {Phys. Rev. A},
-  volume = {109},
-  issue = {3},
-  pages = {032606},
-  numpages = {6},
-  year = {2024},
-  month = {Mar},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.109.032606},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.109.032606}
-}
-
-@article{BelliardoGiovannetti2020,
-  title = {{Achieving Heisenberg scaling with maximally entangled states: An analytic upper bound for the attainable root-mean-square error}},
-  author = {Belliardo, Federico and Giovannetti, Vittorio},
-  journal = {Phys. Rev. A},
-  volume = {102},
-  issue = {4},
-  pages = {042613},
-  numpages = {18},
-  year = {2020},
-  month = {Oct},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.102.042613},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.102.042613}
-}
-
-@article{rodriguez2021efficient,
-  title={Efficient qubit phase estimation using adaptive measurements},
-  author={Rodr{\'\i}guez-Garc{\'\i}a, Marco A and Castillo, Isaac P{\'e}rez and Barberis-Blostein, P},
-  journal={Quantum},
-  volume={5},
-  pages={467},
-  year={2021},
-  publisher={Verein zur F{\"o}rderung des Open Access Publizierens in den Quantenwissenschaften}
-}
-
-@article{dutkiewicz2024advantage,
-  title={{The advantage of quantum control in many-body Hamiltonian learning}},
-  author={Dutkiewicz, Alicja and O'Brien, Thomas E and Schuster, Thomas},
-  journal={Quantum},
-  volume={8},
-  pages={1537},
-  year={2024},
-  publisher={Verein zur F{\"o}rderung des Open Access Publizierens in den Quantenwissenschaften}
-}
-
-@article{Kimmel2015,
-  title = {Robust calibration of a universal single-qubit gate set via robust phase estimation},
-  author = {Kimmel, Shelby and Low, Guang Hao and Yoder, Theodore J.},
-  journal = {Phys. Rev. A},
-  volume = {92},
-  issue = {6},
-  pages = {062315},
-  numpages = {13},
-  year = {2015},
-  month = {Dec},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.92.062315},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.92.062315}
-}
-
-@article{dutkiewicz2022heisenberg,
-  title={Heisenberg-limited quantum phase estimation of multiple eigenvalues with few control qubits},
-  author={Dutkiewicz, Alicja and Terhal, Barbara M and O'Brien, Thomas E},
-  journal={Quantum},
-  volume={6},
-  pages={830},
-  year={2022},
-  publisher={Verein zur F{\"o}rderung des Open Access Publizierens in den Quantenwissenschaften}
-}
-
-@article{Wang18,
-author = {Shuai Wang and Yaoting Wang and Liangjun Zhai and Lijian Zhang},
-journal = {J. Opt. Soc. Am. B},
-keywords = {Phase measurement; Quantum optics; Bose Einstein condensates; Homodyne detection; Phase estimation; Phase shift; Quantum metrology; Quantum noise},
-number = {5},
-pages = {1046--1053},
-publisher = {Optica Publishing Group},
-title = {{Two-mode quantum interferometry with a single-mode Fock state and parity detection}},
-volume = {35},
-month = {May},
-year = {2018},
-url = {https://opg.optica.org/josab/abstract.cfm?URI=josab-35-5-1046},
-doi = {10.1364/JOSAB.35.001046},
-abstract = {We derive a general expression of the expectation value of the parity operator in a Mach\&\#x2013;Zehnder interferometer with a Fock state in one input port and an arbitrary state in the other input. We obtain the quantum Cr\&\#x00E1;mer\&\#x2013;Rao bound via the error propagation method from parity detection for the phase shift around zero. In addition, for an arbitrary state with the same mean photon number, our results show that the same phase resolution and the same phase uncertainty can be obtained for the phase shift around zero. That is to say, when a Mach\&\#x2013;Zehnder interferometer is powered by a Fock state into one input port, all quantum states with same mean photon number at the other input may have the same performance in the phase estimation via parity detection. As some specific applications, we consider the arbitrary state being a Fock state, a coherent state, and a squeezed-vacuum state.},
-}
-
-@article{CamposGerryBenmousse2003,
-  title = {{Optical interferometry at the Heisenberg limit with twin Fock states and parity measurements}},
-  author = {Campos, R. A. and Gerry, Christopher C. and Benmoussa, A.},
-  journal = {Phys. Rev. A},
-  volume = {68},
-  issue = {2},
-  pages = {023810},
-  numpages = {5},
-  year = {2003},
-  month = {Aug},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.68.023810},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.68.023810}
-}
-
-@book{szeg1939orthogonal,
-  title={Orthogonal polynomials},
-  author={Szeg\"o, Gabor},
-  volume={23},
-  year={1939},
-  publisher={American Mathematical Soc.}
-}
-
-@article{UysMeystre2007,
-  title = {{Quantum states for Heisenberg-limited interferometry}},
-  author = {Uys, H. and Meystre, P.},
-  journal = {Phys. Rev. A},
-  volume = {76},
-  issue = {1},
-  pages = {013804},
-  numpages = {9},
-  year = {2007},
-  month = {Jul},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.76.013804},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.76.013804}
-}
-
-
-@inproceedings{mitchell_metrology_2005,
-	address = {San Diego, CA, USA},
-	title = {Metrology with entangled states},
-	url = {http://spie.org/x648.html?product_id=621353},
-	doi = {10.1117/12.621353},
-	urldate = {2011-04-05},
-	booktitle = {Proceedings of {SPIE}},
-	author = {Mitchell, M. W.},
-	year = {2005},
-	pages = {589310--589310--10},
-	file = {C05-018.pdf:C\:\\Users\\danyb\\Zotero\\storage\\THTCDZT5\\C05-018.pdf:application/pdf;Metrology with entangled states | Publications\: SPIE:C\:\\Users\\danyb\\Zotero\\storage\\F5UBANUF\\x648.html:text/html},
-}
-
-@inproceedings{Mitchell2005,
-author = {M. W. Mitchell},
-title = {{Metrology with entangled states}},
-volume = {5893},
-booktitle = {Quantum Communications and Quantum Imaging III},
-editor = {Ronald E. Meyers and Yanhua Shih},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {589310},
-keywords = {quantum optics, quantum information, entangled states, metrology, phase estimation},
-year = {2005},
-doi = {10.1117/12.621353},
-URL = {https://doi.org/10.1117/12.621353}
-}
-
-@BOOK{Gilmore2008,
-	AUTHOR       = {Gilmore, R.},
-        PUBLISHER = {Courier Cambridge University Press},
-	TITLE        = {{Lie Groups, Physics, and Geometry}},
-	YEAR         = {2008}
-}
-
-@BOOK{Gilmore2012,
-	AUTHOR       = {Gilmore, R.},
-        PUBLISHER = {Courier Corporation},
-	TITLE        = {{Lie Groups, Lie Algebras, and Some of Their Applications}},
-	YEAR         = {2012}
-}
-
-@unpublished{Klauder2001,
-  title = {{The Current States of Coherent States}},
-  author = {Klauder, J. R.},
-  note = {arXiv:quant-ph/0110108},
-  year = {2001}
-}
-
-@article{Gilmore1972,
-  title = {{Geometry of Symmetrized States}},
-  author = {Gilmore, R.},
-  journal = {Ann. Phys.},
-  volume = {74},
-  pages = {391},
-  year = {1972}
-}
-
-@article{Klauder1963,
-  title = {{Continuous‐Representation Theory. II. Generalized Relation between Quantum and Classical Dynamics}},
-  author = {Klauder, J. R.},
-  journal = {J. Math. Phys.},
-  volume = {4},
-  pages = {1058},
-  year = {1963}
-}
-
-@article{Perelomov1972,
-  title = {Coherent states for arbitrary Lie group},
-  author = {Perelomov, A. M.},
-  journal = {Comm. Math. Phys.},
-  volume = {26},
-  pages = {222},
-  year = {1972}
-}
-
-@BOOK{BonfiglioliFulci,
-	AUTHOR       = {Bonfiglioli, A. and Fulci, R.},
-        PUBLISHER = {Springer},
-	TITLE        = {{Topics in Noncommutative Algebra: The Theorem of Campbell, Baker, Hausdorff and Dynkin}},
-	YEAR         = {2012}
-}
-
-@article{Kimura2017,
-  title = {{Explicit description of the Zassenhaus formula}},
-  author = {Kimura, T.},
-  journal = {Prog. Theor. Exp. Phys.},
-  volume = {2017},
-  pages = {041A03},
-  year = {2017}
-}
-
-@article{Magnus1954,
-  title = {{On the exponential solution of differential equations for a linear operator}},
-  author = {Magnus, W.},
-  journal = {Commun. Pure Appl. Math},
-  volume = {VII},
-  pages = {649},
-  year = {1954}
-}
-
-@BOOK{SakuraiNapolitano,
-	AUTHOR       = {Sakurai, J. J. and Napolitano, J.},
-        PUBLISHER = {Cambridge University Press},
-	TITLE        = {{Modern Quantum Mechanics third edition}},
-	YEAR         = {2021}
-}
-
-@article{CamposSalehTeich1989,
-  title = {Quantum-mechanical lossless beam splitter: SU(2) symmetry and photon statistics},
-  author = {Campos, Richard A. and Saleh, Bahaa E. A. and Teich, Malvin C.},
-  journal = {Phys. Rev. A},
-  volume = {40},
-  issue = {3},
-  pages = {1371--1384},
-  numpages = {0},
-  year = {1989},
-  month = {Aug},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevA.40.1371},
-  url = {https://link.aps.org/doi/10.1103/PhysRevA.40.1371}
-}
-
-@article{vanEnkNienhuis1994,
-  title = {{Spin and Orbital Angular Momentum of Photons}},
-  author = {van Enk, S. J. and Nienhuis, G.},
-  journal = {EPL},
-  volume = {25},
-  pages = {497},
-  year = {1994}
-}
-
-@article{Rashid1978-2,
-  title = {{The intelligent states. II. The computation of the Clebsch-Gordan coefficients}},
-  author = {Rashid, M. A.},
-  journal = {J. Math. Phys.},
-  volume = {19},
-  pages = {1397},
-  year = {1978}
-}
-
-@article{Rashid1978-1,
-  title = {{The intelligent states. I. Group-theoretic study and the computation of matrix elements}},
-  author = {Rashid, M. A.},
-  journal = {J. Math. Phys.},
-  volume = {19},
-  pages = {1391},
-  year = {1978}
-}
 
 @article{zaslavsky1981stochasticity,
   title={Stochasticity in quantum systems},
@@ -26116,27 +25951,6 @@ URL = {https://doi.org/10.1117/12.621353}
 	volume = {32},
 	issn = {0305-4470},
 	url = {http://www.iop.org/EJ/abstract/0305-4470/32/14/007},
-	abstract = {The aim of this paper is to derive explicit formulae for the
-
-computation of the Riemannian Bures metric g on the manifold of
-
-(finite-dimensional) nonsingular density matrices . This Riemannian
-
-metric introduced by Uhlmann generalizes the Fubini-Study metric to
-
-mixed states and is the infinitesimal version of the Bures distance.
-
-Several formulae are known for computing the Bures metric in low
-
-dimensions. The formulae presented in this paper allow for computing
-
-in finite dimensions without any diagonalization procedures. The first
-
-equations we give are, essentially, of the form , where is a matrix of
-
-invariants of . A further formula, , is adapted to the local
-
-orthogonal decomposition at generic points.},
 	number = {14},
 	urldate = {2009-07-10},
 	journal = {Journal of Physics A: Mathematical and General},
@@ -26181,6 +25995,35 @@ orthogonal decomposition at generic points.},
 	year = {1993},
 	pages = {1469--1564},
 	file = {Kramer and MacKinnon - 1993 - Localization theory and experiment.pdf:C\:\\Users\\danyb\\Zotero\\storage\\V8CM5G2S\\Kramer and MacKinnon - 1993 - Localization theory and experiment.pdf:application/pdf},
+}
+
+
+@article{casimir_attraction_1948,
+	title = {On the attraction between two perfectly conducting plates},
+	volume = {51},
+	journal = {Proc. Kon. Ned. Akad. Wet},
+	author = {Casimir, H. B. G.},
+	year = {1948},
+	pages = {793},
+	file = {PDF:C\:\\Users\\danyb\\Zotero\\storage\\VRTPRDVG\\On the attraction between two perfectly conducting plates.pdf:application/pdf},
+}
+
+@article{lamoreaux_casimir_2004,
+	title = {The {Casimir} force: background, experiments, and applications},
+	volume = {68},
+	issn = {0034-4885},
+	shorttitle = {The {Casimir} force},
+	url = {https://doi.org/10.1088/0034-4885/68/1/R04},
+	doi = {10.1088/0034-4885/68/1/R04},
+	abstract = {The Casimir force, which is the attraction of two uncharged material bodies due to modification of the zero-point energy associated with the electromagnetic modes in the space between them, has been measured with per cent-level accuracy in a number of recent experiments. A review of the theory of the Casimir force and its corrections for real materials and finite temperature are presented in this report. Applications of the theory to a number of practical problems are discussed.},
+	number = {1},
+	urldate = {2026-01-23},
+	journal = {Reports on Progress in Physics},
+	author = {Lamoreaux, Steven K},
+	month = nov,
+	year = {2004},
+	pages = {201},
+	file = {IOP Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\LP49G2LB\\Lamoreaux - 2004 - The Casimir force background, experiments, and applications.pdf:application/pdf},
 }
 
 @Comment{jabref-meta: pdfDirectory:
