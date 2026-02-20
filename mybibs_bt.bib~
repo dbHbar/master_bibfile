@@ -10,6 +10,14 @@
 
 
 
+@inproceedings{DArianoMacchiavelloParis,
+  title={{Homodyning and Heterodyning the Quantum Phase}},
+  author={D'Ariano, G. M and Macchiavello, C. and Paris, M. G. A.},
+  editor={Han, D. and Kim, Y. S. and Rubin, N. H. and Zachary, W. W.},
+  booktitle={Third International Workshop on Squeezed States and Uncertainty Relations},
+  year={1994}
+}
+
 @article{guctua2008optimal,
   title={Optimal estimation of qubit states with continuous time measurements},
   author={Gu{\c{t}}{\u{a}}, M{\u{a}}d{\u{a}}lin and Janssens, Bas and Kahn, Jonas},
@@ -23957,24 +23965,6 @@ Based on their mathematical properties, stochastic processes can be grouped into
 	file = {Gonzalez-Ballestero et al. - 2021 - Levitodynamics Levitation and control of microsco.pdf:C\:\\Users\\danyb\\Zotero\\storage\\MU5AGLYV\\Gonzalez-Ballestero et al. - 2021 - Levitodynamics Levitation and control of microsco.pdf:application/pdf},
 }
 
-@article{vinante_levitated_2022,
-	title = {Levitated {Micromagnets} in {Superconducting} {Traps}: {A} {New} {Platform} for {Tabletop} {Fundamental} {Physics} {Experiments}},
-	volume = {24},
-	issn = {1099-4300},
-	shorttitle = {Levitated {Micromagnets} in {Superconducting} {Traps}},
-	url = {https://www.mdpi.com/1099-4300/24/11/1642},
-	doi = {10.3390/e24111642},
-	abstract = {Magnetically levitated microparticles have been proposed as mechanical sensors with extreme sensitivity. In particular, micromagnets levitated above a superconductor can achieve very low levels of dissipation and thermal noise. In this paper, we review recent initial experiments and discuss the potential for using these systems as sensors of magnetic ﬁelds and rotational motion, as well as possible applications to fundamental physics.},
-	number = {11},
-	urldate = {2023-02-19},
-	journal = {Entropy},
-	author = {Vinante, Andrea and Timberlake, Chris and Ulbricht, Hendrik},
-	month = nov,
-	year = {2022},
-	keywords = {QuCom},
-	pages = {1642},
-	file = {Vinante et al. - 2022 - Levitated Micromagnets in Superconducting Traps A.pdf:C\:\\Users\\danyb\\Zotero\\storage\\MFN3A899\\Vinante et al. - 2022 - Levitated Micromagnets in Superconducting Traps A.pdf:application/pdf},
-}
 
 @article{pedernales_decoherence-free_2020,
 	title = {Decoherence-{Free} {Rotational} {Degrees} of {Freedom} for {Quantum} {Applications}},
@@ -24131,6 +24121,91 @@ Based on their mathematical properties, stochastic processes can be grouped into
 	pages = {220--225},
 	file = {Barbara_Wernsdorfer_1997_Quantum tunneling effect in magnetic particles.pdf:C\:\\Users\\danyb\\Zotero\\storage\\RKS4ZYUJ\\Barbara_Wernsdorfer_1997_Quantum tunneling effect in magnetic particles.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\danyb\\Zotero\\storage\\SNBYZTNL\\S1359028697800691.html:text/html},
 }
+
+%non-commutative space time stuff
+@article{Snyder1947,
+  author  = {Snyder, H. S.},
+  title   = {Quantized Space-Time},
+  journal = {Physical Review},
+  volume  = {71},
+  number  = {1},
+  pages   = {38--41},
+  year    = {1947},
+  doi     = {10.1103/PhysRev.71.38}
+}
+
+@article{DFR1994,
+  author  = {Doplicher, Sergio and Fredenhagen, Klaus and Roberts, John E.},
+  title   = {Space-Time Quantization Induced by Classical Gravity},
+  journal = {Physics Letters B},
+  volume  = {331},
+  number  = {1--2},
+  pages   = {39--44},
+  year    = {1994},
+  doi     = {10.1016/0370-2693(94)90940-7}
+}
+
+@article{DFR1995,
+  author  = {Doplicher, Sergio and Fredenhagen, Klaus and Roberts, John E.},
+  title   = {The Quantum Structure of Space-Time at the Planck Scale and Quantum Fields},
+  journal = {Communications in Mathematical Physics},
+  volume  = {172},
+  pages   = {187--220},
+  year    = {1995},
+  doi     = {10.1007/BF02104515}
+}
+
+@book{Connes1994,
+  author    = {Connes, Alain},
+  title     = {Noncommutative Geometry},
+  publisher = {Academic Press},
+  address   = {San Diego},
+  year      = {1995},
+  isbn      = {978-0121858605}
+}
+
+@article{ChamseddineConnes1997,
+  author  = {Chamseddine, Ali H. and Connes, Alain},
+  title   = {The Spectral Action Principle},
+  journal = {Communications in Mathematical Physics},
+  volume  = {186},
+  pages   = {731--750},
+  year    = {1997},
+  doi     = {10.1007/s002200050126}
+}
+
+@article{ChamseddineConnesMarcolli2007,
+  author  = {Chamseddine, Ali H. and Connes, Alain and Marcolli, Matilde},
+  title   = {Gravity and the Standard Model with Neutrino Mixing},
+  journal = {Advances in Theoretical and Mathematical Physics},
+  volume  = {11},
+  number  = {6},
+  pages   = {991--1089},
+  year    = {2007},
+  doi     = {10.4310/ATMP.2007.v11.n6.a3}
+}
+
+% less significant digits as hidden variables
+@article{Gisin2020RealNumbers,
+  author  = {Gisin, Nicolas},
+  title   = {Real Numbers are the Hidden Variables of Classical Mechanics},
+  journal = {Quantum Studies: Mathematics and Foundations},
+  volume  = {7},
+  pages   = {197--201},
+  year    = {2020},
+  doi     = {10.1007/s40509-019-00211-8}
+}
+
+@article{Gisin2019Indeterminism,
+  author  = {Gisin, Nicolas},
+  title   = {Indeterminism in Physics, Classical Chaos and Bohmian Mechanics: Are Real Numbers Really Real?},
+  journal = {Erkenntnis},
+  volume  = {86},
+  pages   = {1469--1481},
+  year    = {2021},
+  doi     = {10.1007/s10670-019-00165-8}
+}
+
 
 %%%%%%%%%%%%% new entries QMetro book %%%%%%%%%%%%%%%%%%%
 @article{kaluzny1983observation,
@@ -26029,5 +26104,6 @@ Publisher: Nature Publishing Group},
 @Comment{jabref-meta: pdfDirectory:
 /Users/pro/Documents/Articles/QCR;
 }
+
 
 
