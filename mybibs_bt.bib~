@@ -10,6 +10,73 @@
 
 
 
+@article{benatti2021entanglement,
+  title={Entanglement and non-locality in quantum protocols with identical particles},
+  author={Benatti, Fabio and Floreanini, Roberto and Marzolino, Ugo},
+  journal={Entropy},
+  volume={23},
+  number={4},
+  pages={479},
+  year={2021},
+  publisher={MDPI}
+}
+
+@article{johann2021locality,
+  title={Locality and entanglement of indistinguishable particles},
+  author={Johann, Till Jonas Frederick and Marzolino, Ugo},
+  journal={Scientific Reports},
+  volume={11},
+  number={1},
+  pages={15478},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{benatti2020entanglement,
+  title={Entanglement in indistinguishable particle systems},
+  author={Benatti, Fabio and Floreanini, Roberto and Franchini, Fabio and Marzolino, Ugo},
+  journal={Physics Reports},
+  volume={878},
+  pages={1--27},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{peres1995higher,
+  title={{Higher order Schmidt decompositions}},
+  author={Peres, Asher},
+  journal={arXiv preprint quant-ph/9504006},
+  year={1995}
+}
+
+@article{van2021efficient,
+  title={{Efficient Bayesian phase estimation using mixed priors}},
+  author={van den Berg, Ewout},
+  journal={Quantum},
+  volume={5},
+  pages={469},
+  year={2021},
+  publisher={Verein zur F{\"o}rderung des Open Access Publizierens in den Quantenwissenschaften}
+}
+
+@article{gu2010fidelity,
+  title={Fidelity approach to quantum phase transitions},
+  author={Gu, Shi-Jian},
+  journal={International Journal of Modern Physics B},
+  volume={24},
+  number={23},
+  pages={4371--4458},
+  year={2010},
+  publisher={World Scientific}
+}
+
+@BOOK{RobertComberscure,
+	AUTHOR       = {Robert, D. and Comberscure, M.},
+        PUBLISHER = {Springer},
+	TITLE        = {{Coherent States and Applications in Mathematical Physics}},
+	YEAR         = {2021}
+}
+
 @inproceedings{DArianoMacchiavelloParis,
   title={{Homodyning and Heterodyning the Quantum Phase}},
   author={D'Ariano, G. M and Macchiavello, C. and Paris, M. G. A.},
@@ -5382,7 +5449,7 @@ pages = {309-314}
 }
 
 @article{PhysRevA.78.032114,
-  title = {Hardy's test versus the Clauser-Horne-Shimony-Holt test of quantum nonlocality: Fundamental and practical aspects},
+  title = {Hardy's test versus the {Clauser-Horne-Shimony-Holt} test of quantum nonlocality: {Fundamental and practical aspects}},
   author = {Braun, Daniel and Choi, Mahn-Soo},
   journal = {Phys. Rev. A},
   volume = {78},
@@ -20731,15 +20798,6 @@ doi = {10.1103/PhysRevA.73.032102}
 
 ,
 
-@article{caves_quantum-mechanical_1981,
-	title = {Quantum-mechanical noise in an interferometer},
-	volume = {23},
-	number = {8},
-	journal = {Phys. Rev. D},
-	author = {Carlton M. Caves},
-	year = {1981},
-	pages = {1693--1708}
-}
 
 @Article{Braunstein94,
   title = {Statistical distance and the geometry of quantum states},
@@ -24207,6 +24265,7 @@ Based on their mathematical properties, stochastic processes can be grouped into
 }
 
 
+
 %%%%%%%%%%%%% new entries QMetro book %%%%%%%%%%%%%%%%%%%
 @article{kaluzny1983observation,
   title={{Observation of Self-Induced Rabi Oscillations in Two-Level Atoms Excited Inside a Resonant Cavity: The Ringing Regime of Superradiance}},
@@ -26009,6 +26068,21 @@ Publisher: Nature Publishing Group},
 	file = {Wang et al_2013_Observation of Floquet-Bloch States on the Surface of a Topological Insulator.pdf:C\:\\Users\\danyb\\Zotero\\storage\\CXJT8QPR\\Wang et al_2013_Observation of Floquet-Bloch States on the Surface of a Topological Insulator.pdf:application/pdf},
 }
 
+
+@book{huang_statistical_1987,
+	title = {Statistical {Mechanics}, 2nd {Edition}},
+	url = {https://ui.adsabs.harvard.edu/abs/1987stme.book.....H},
+	abstract = {Unlike most other texts on the subject, this clear, concise introduction to the theory of microscopic bodies treats the modern theory of critical phenomena. Provides up-to-date coverage of recent major advances, including a self-contained description of thermodynamics and the classical kinetic theory of gases, interesting applications such as superfluids and the quantum Hall effect, several current research applications, The last three chapters are devoted to the Landau-Wilson approach to critical phenomena. Many new problems and illustrations have been added to this edition.},
+	urldate = {2026-02-20},
+	author = {Huang, Kerson},
+	month = apr,
+	year = {1987},
+	note = {Publication Title: Statistical Mechanics
+ADS Bibcode: 1987stme.book.....H},
+	keywords = {Thermal Physics \& Statistical Mechanics},
+}
+
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -26101,9 +26175,69 @@ Publisher: Nature Publishing Group},
 	file = {IOP Full Text PDF:C\:\\Users\\danyb\\Zotero\\storage\\LP49G2LB\\Lamoreaux - 2004 - The Casimir force background, experiments, and applications.pdf:application/pdf},
 }
 
+@article{Kennard1927,
+  author  = {Kennard, Earle H.},
+  title   = {Zur Quantenmechanik einfacher Bewegungstypen},
+  journal = {Zeitschrift f\"ur Physik},
+  volume  = {44},
+  pages   = {326--352},
+  year    = {1927},
+  doi     = {10.1007/BF01391200}
+}
+
+@article{Schrodinger1930,
+  author  = {Schr\"odinger, Erwin},
+  title   = {Zum Heisenbergschen Unsch\"arfeprinzip},
+  journal = {Sitzungsberichte der Preu{\ss}ischen Akademie der Wissenschaften, Phys.-Math. Klasse},
+  pages   = {296--303},
+  year    = {1930}
+}
+
+
+
+@article{Stoler1970,
+  author  = {Stoler, David},
+  title   = {Equivalence Classes of Minimum Uncertainty Packets},
+  journal = {Physical Review D},
+  volume  = {1},
+  pages   = {3217--3219},
+  year    = {1970},
+  doi     = {10.1103/PhysRevD.1.3217}
+}
+
+@article{Yuen1976,
+  author  = {Yuen, H. P.},
+  title   = {Two-Photon coherent states of the radiation field},
+  journal = {Physical Review A},
+  volume  = {13},
+  pages   = {2226--2243},
+  year    = {1976},
+  doi     = {10.1103/PhysRevA.13.2226}
+}
+
+
+@article{scutaru_fidelity_1998,
+	title = {Fidelity for displaced squeezed thermal states and the oscillator semigroup},
+	volume = {31},
+	issn = {0305-4470},
+	url = {https://doi.org/10.1088/0305-4470/31/15/025},
+	doi = {10.1088/0305-4470/31/15/025},
+	abstract = {The fidelity for two displaced squeezed thermal states is computed using the fact that the corresponding density operators belong to the oscillator semigroup. A novel calculation technique is developed for the computation of the traces of product of Gaussian density operators and of square roots of Gaussian density operators. The method is exemplified for the one-mode case but it is also applicable to the multimode case.},
+	number = {15},
+	urldate = {2026-02-27},
+	journal = {Journal of Physics A: Mathematical and General},
+	author = {Scutaru, H.},
+	month = apr,
+	year = {1998},
+	pages = {3659},
+	file = {H_Scutaru_1998_J._Phys._A__Math._Gen._31_3659:C\:\\Users\\danyb\\Zotero\\storage\\NKXK5K37\\H_Scutaru_1998_J._Phys._A__Math._Gen._31_3659.pdf:application/pdf;Submitted Version:C\:\\Users\\danyb\\Zotero\\storage\\CDWY7C4T\\Scutaru - 1998 - Fidelity for displaced squeezed thermal states and the oscillator semigroup.pdf:application/pdf},
+}
+
+
 @Comment{jabref-meta: pdfDirectory:
 /Users/pro/Documents/Articles/QCR;
 }
+
 
 
 
