@@ -1,0 +1,21 @@
+
+@article{giraud_quantum_2024,
+	title = {Quantum parameter estimation with many-body fermionic systems and application to the {Hall} effect},
+	volume = {16},
+	issn = {2542-4653},
+	url = {https://scipost.org/SciPostPhys.16.3.085},
+	doi = {10.21468/SciPostPhys.16.3.085},
+	abstract = {SciPost Journals Publication Detail SciPost Phys. 16, 085 (2024) Quantum parameter estimation with many-body fermionic systems and application to the Hall effect},
+	language = {en},
+	number = {3},
+	urldate = {2024-04-29},
+	journal = {SciPost Physics},
+	author = {Giraud, Olivier and Goerbig, Mark-Oliver and Braun, Daniel},
+	month = mar,
+	year = {2024},
+	pages = {085},
+<<<<<<< HEAD
+	file = {Giraud et al_2024_Quantum parameter estimation with many-body fermionic systems and application.pdf:C\:\\Users\\danyb\\OneDrive - UT Cloud\\ZoteroStorage\\Giraud et al_2024_Quantum parameter estimation with many-body fermionic systems and application2.pdf:application/pdf},
+=======
+>>>>>>> 163cd2fa16eb6f768420907de6ff908600e038c5
+}
